@@ -1,0 +1,56 @@
+{
+  "anchor_auc": 0.785,
+  "n_eval": 71,
+  "sweeps": [
+    {
+      "w": 0.02,
+      "auc": 0.7851,
+      "delta": 0.0001
+    },
+    {
+      "w": 0.05,
+      "auc": 0.7852,
+      "delta": 0.0002
+    },
+    {
+      "w": 0.1,
+      "auc": 0.7849,
+      "delta": -0.0002
+    },
+    {
+      "w": 0.2,
+      "auc": 0.7824,
+      "delta": -0.0026
+    },
+    {
+      "w": 0.3,
+      "auc": 0.7778,
+      "delta": -0.0072
+    }
+  ],
+  "gated": {
+    "w": 0.05,
+    "helped": 31,
+    "hurt": 11,
+    "gated_auc": 0.7861,
+    "gated_delta": 0.001,
+    "by_taxon": {
+      "Amphibia": {
+        "helped": 14,
+        "hurt": 2
+      },
+      "Mammalia": {
+        "helped": 2,
+        "hurt": 0
+      },
+      "Aves": {
+        "helped": 15,
+        "hurt": 5
+      },
+      "Insecta": {
+        "helped": 0,
+        "hurt": 4
+      }
+    }
+  }
+}
