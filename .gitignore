@@ -1,0 +1,55 @@
+# ---- Large data (never commit) ----
+# external/: 116GB kaggle datasets/models/notebooks (deps)
+external/
+# birdclef-2026/: 16GB competition data
+birdclef-2026/
+# python venvs
+.venv-bird/
+.venv/
+# embedding caches
+**/cache/
+**/runs/**/*.npz
+**/results/**/*.npz
+
+# ---- Large binaries / model artifacts ----
+*.npy
+*.npz
+*.pt
+*.pth
+*.onnx
+*.tflite
+*.pb
+*.parquet
+*.ckpt
+*.h5
+*.tar
+*.tar.gz
+*.zip
+*.whl
+
+# ---- Audio ----
+*.ogg
+*.wav
+*.mp3
+*.m4a
+*.flac
+
+# ---- Secrets (defense in depth; these live in ~ but never commit) ----
+*.key
+*_token
+.xenocanto_key
+.inat_token
+*.pem
+.env
+.env.*
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# ---- Logs / scratch ----
+*.log
+/a
+.DS_Store

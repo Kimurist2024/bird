@@ -1,0 +1,23 @@
+# Noisy Classmates v1 — default config
+# 2 classmates, 5-fold CV on 708 OOF windows, anti-confirmation-bias bidirectional KD.
+
+classmates: [proto_ssm, mlp_mixer]
+warm_start: [true, false]  # proto_ssm gets warm start; mixer trains from scratch for diversity
+
+epochs: 20
+batch_size: 16          # files per batch (each file = 12 windows)
+lr: 4.0e-4
+weight_decay: 0.01
+
+# Noisy Classmate hyperparameters
+lambda_u: 0.5           # weight on pseudo-label loss
+lam_u_warmup_epochs: 3  # delay pseudo-label loss until model has learned a bit
+sharpen_T: 0.5
+conf_threshold: 0.7
+
+mixup_alpha: 0.4
+
+aug:
+  noise_sigma: 0.05     # gaussian noise σ as fraction of per-feature std
+  p_window_dropout: 0.1
+  p_shuffle: 0.3

@@ -1,0 +1,211 @@
+{
+  "n_windows": 708,
+  "matched": 708,
+  "n_classes_total": 234,
+  "oof_base": {
+    "macro_auc": 0.7999212856838273,
+    "n_eval_classes": 71
+  },
+  "oof_prior": {
+    "macro_auc": 0.6027970235038224,
+    "n_eval_classes": 71
+  },
+  "per_fold": {
+    "1": {
+      "macro_auc": 0.8688082011262831,
+      "n_windows": 144,
+      "n_eval_classes": 30
+    },
+    "2": {
+      "macro_auc": 0.9089812359843189,
+      "n_windows": 132,
+      "n_eval_classes": 27
+    },
+    "3": {
+      "macro_auc": 0.86120709504475,
+      "n_windows": 144,
+      "n_eval_classes": 29
+    },
+    "4": {
+      "macro_auc": 0.8824186572762288,
+      "n_windows": 156,
+      "n_eval_classes": 41
+    },
+    "5": {
+      "macro_auc": 0.8832237519000306,
+      "n_windows": 132,
+      "n_eval_classes": 40
+    }
+  },
+  "by_taxon": {
+    "Aves": {
+      "mean_auc": 0.8838071405057528,
+      "n_evaluated": 25,
+      "n_total": 162
+    },
+    "Amphibia": {
+      "mean_auc": 0.811546497616319,
+      "n_evaluated": 17,
+      "n_total": 35
+    },
+    "Mammalia": {
+      "mean_auc": 0.8671163661325981,
+      "n_evaluated": 3,
+      "n_total": 8
+    },
+    "Reptilia": {
+      "mean_auc": 0.9449363586054234,
+      "n_evaluated": 1,
+      "n_total": 1
+    },
+    "Insecta": {
+      "mean_auc": 0.6942662741770907,
+      "n_evaluated": 25,
+      "n_total": 28
+    }
+  },
+  "worst_10": [
+    {
+      "label": "22961",
+      "name": "Leptodactylus podicipinus",
+      "class": "Amphibia",
+      "auc": 0.16960152116402114,
+      "positives": 36
+    },
+    {
+      "label": "47158son15",
+      "name": "Insect son15",
+      "class": "Insecta",
+      "auc": 0.3448275862068966,
+      "positives": 12
+    },
+    {
+      "label": "47158son16",
+      "name": "Insect son16",
+      "class": "Insecta",
+      "auc": 0.3448275862068966,
+      "positives": 12
+    },
+    {
+      "label": "47158son01",
+      "name": "Insect son01",
+      "class": "Insecta",
+      "auc": 0.3510948905109489,
+      "positives": 23
+    },
+    {
+      "label": "47158son14",
+      "name": "Insect son14",
+      "class": "Insecta",
+      "auc": 0.35344827586206895,
+      "positives": 12
+    },
+    {
+      "label": "47158son20",
+      "name": "Insect son20",
+      "class": "Insecta",
+      "auc": 0.35344827586206895,
+      "positives": 12
+    },
+    {
+      "label": "47158son18",
+      "name": "Insect son18",
+      "class": "Insecta",
+      "auc": 0.3706896551724138,
+      "positives": 12
+    },
+    {
+      "label": "47158son02",
+      "name": "Insect son02",
+      "class": "Insecta",
+      "auc": 0.38017118402282457,
+      "positives": 7
+    },
+    {
+      "label": "strher2",
+      "name": "Butorides striata",
+      "class": "Aves",
+      "auc": 0.3803116147308782,
+      "positives": 2
+    },
+    {
+      "label": "47158son05",
+      "name": "Insect son05",
+      "class": "Insecta",
+      "auc": 0.3893617021276596,
+      "positives": 3
+    }
+  ],
+  "best_10": [
+    {
+      "label": "orwpar",
+      "name": "Amazona amazonica",
+      "class": "Aves",
+      "auc": 0.9960154952960708,
+      "positives": 13
+    },
+    {
+      "label": "47158son21",
+      "name": "Insect son21",
+      "class": "Insecta",
+      "auc": 0.9985422740524781,
+      "positives": 22
+    },
+    {
+      "label": "chvcon1",
+      "name": "Conirostrum speciosum",
+      "class": "Aves",
+      "auc": 0.9996603693483337,
+      "positives": 35
+    },
+    {
+      "label": "47158son07",
+      "name": "Insect son07",
+      "class": "Insecta",
+      "auc": 1.0,
+      "positives": 48
+    },
+    {
+      "label": "47158son22",
+      "name": "Insect son22",
+      "class": "Insecta",
+      "auc": 1.0,
+      "positives": 24
+    },
+    {
+      "label": "47158son23",
+      "name": "Insect son23",
+      "class": "Insecta",
+      "auc": 1.0,
+      "positives": 24
+    },
+    {
+      "label": "47158son24",
+      "name": "Insect son24",
+      "class": "Insecta",
+      "auc": 1.0,
+      "positives": 24
+    },
+    {
+      "label": "ruther1",
+      "name": "Tigrisoma lineatum",
+      "class": "Aves",
+      "auc": 1.0,
+      "positives": 1
+    },
+    {
+      "label": "sibtan2",
+      "name": "Ramphocelus carbo",
+      "class": "Aves",
+      "auc": 1.0,
+      "positives": 1
+    },
+    {
+      "label": "wfwduc1",
+      "name": "Dendrocygna viduata",
+      "class": "Aves",
+      "auc": 1.0,
+      "positives": 1
+    }
+  ]
+}

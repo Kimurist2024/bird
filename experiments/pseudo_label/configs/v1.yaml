@@ -1,0 +1,8 @@
+# Pseudo-label self-training v1
+conf_threshold: 0.8      # documented "secret ingredient": conf >= 0.8
+hard_pseudo: false       # soft targets (teacher probabilities)
+epochs: 15
+lr: 2.0e-4
+weight_decay: 0.01
+lambda_pseudo: 0.5       # ramps 0 -> 0.5 over first third
+pseudo_batch: 64         # unlabeled files per pseudo step

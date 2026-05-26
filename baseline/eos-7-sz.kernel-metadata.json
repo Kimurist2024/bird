@@ -1,0 +1,37 @@
+{
+  "id": "kimura0415/birdclef-2026-eos-7-sz",
+  "id_no": 120581102,
+  "title": "BirdCLEF+ 2026 | EoS.7 (sz)",
+  "code_file": "birdclef-2026-eos-7-sz.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "tuckerarrants/bc2026-distilled-sed-public",
+    "tuckerarrants/birdclef-2026-waveform-cache",
+    "pilkwang/birdclef26-sidecar-exp001",
+    "pilkwang/birdclef26-sidecar-exp002b-5s-weakaudio",
+    "jaejohn/perch-meta",
+    "tuckerarrants/perch-v2-no-dft-onnx",
+    "rishikeshjani/perch-onnx-for-birdclef-2026",
+    "pilkwang/pilkwang-public-dataset-for-notebooks-figures",
+    "hideyukizushi/sgkfk-202604041716"
+  ],
+  "kernel_sources": [
+    "ashok205/tf-wheels",
+    "hideyukizushi/bird26-reprod-perch-proto-residualssm-train-s7177"
+  ],
+  "competition_sources": [
+    "birdclef-2026"
+  ],
+  "model_sources": [
+    "shadiakiki1/birdnet-analyzer/TfLite/birdnet_global_6k_v2.4_model_fp32-1/3",
+    "google/bird-vocalization-classifier/TensorFlow2/perch_v2_cpu/1"
+  ],
+  "docker_image": "gcr.io/kaggle-images/python@sha256:221c8b519c4f2efa4e712ac0f2e85878a403ea4d523a2cedf8ebf60cf1136c45",
+  "machine_shape": "None"
+}

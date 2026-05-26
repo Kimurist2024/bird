@@ -1,0 +1,111 @@
+{
+  "n_files": 66,
+  "n_windows": 792,
+  "n_eval_classes": 75,
+  "macro_auc": 0.9313276275615787,
+  "by_taxon": {
+    "Aves": {
+      "mean_auc": 0.8833440455442589,
+      "n_evaluated": 28,
+      "n_total": 162
+    },
+    "Amphibia": {
+      "mean_auc": 0.9408426397234751,
+      "n_evaluated": 17,
+      "n_total": 35
+    },
+    "Mammalia": {
+      "mean_auc": 0.8116047134843547,
+      "n_evaluated": 4,
+      "n_total": 8
+    },
+    "Reptilia": {
+      "mean_auc": 0.9695862545669991,
+      "n_evaluated": 1,
+      "n_total": 1
+    },
+    "Insecta": {
+      "mean_auc": 0.9962243523230263,
+      "n_evaluated": 25,
+      "n_total": 28
+    }
+  },
+  "worst_10": [
+    {
+      "label": "thlwre1",
+      "name": "Campylorhynchus turdinus",
+      "class": "Aves",
+      "auc": 0.04683544303797471,
+      "positives": 2
+    },
+    {
+      "label": "plcjay1",
+      "name": "Cyanocorax chrysops",
+      "class": "Aves",
+      "auc": 0.1529709228824273,
+      "positives": 1
+    },
+    {
+      "label": "grekis",
+      "name": "Pitangus sulphuratus",
+      "class": "Aves",
+      "auc": 0.3069620253164557,
+      "positives": 2
+    },
+    {
+      "label": "516975",
+      "name": "Sapajus cay",
+      "class": "Mammalia",
+      "auc": 0.3110496692011455,
+      "positives": 13
+    },
+    {
+      "label": "517063",
+      "name": "Pithecopus azureus",
+      "class": "Amphibia",
+      "auc": 0.7491979429989262,
+      "positives": 313
+    },
+    {
+      "label": "undtin1",
+      "name": "Crypturellus undulatus",
+      "class": "Aves",
+      "auc": 0.8452976061104728,
+      "positives": 43
+    },
+    {
+      "label": "litnig1",
+      "name": "Setopagis parvula",
+      "class": "Aves",
+      "auc": 0.8619294791480222,
+      "positives": 37
+    },
+    {
+      "label": "1491113",
+      "name": "Adenomera guarani",
+      "class": "Amphibia",
+      "auc": 0.8734177215189873,
+      "positives": 79
+    },
+    {
+      "label": "66971",
+      "name": "Pseudis platensis",
+      "class": "Amphibia",
+      "auc": 0.9088375588422557,
+      "positives": 149
+    },
+    {
+      "label": "555146",
+      "name": "Boana raniceps",
+      "class": "Amphibia",
+      "auc": 0.9167893961708394,
+      "positives": 210
+    }
+  ],
+  "timing": {
+    "total_sec": 242.1212980747223,
+    "perch_sec": 77.91387009620667,
+    "proto_sec": 163.05652689933777,
+    "files_per_sec": 0.2725906416528108
+  }
+}

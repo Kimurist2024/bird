@@ -1,0 +1,28 @@
+{
+  "offsets_tta": [
+    -1.0,
+    -0.5,
+    0.0,
+    0.5,
+    1.0
+  ],
+  "n_eval_classes": 75,
+  "baseline_macro_auc": 0.9313,
+  "tta_macro_auc": 0.9316,
+  "delta": 0.0002,
+  "baseline_by_taxon": {
+    "Reptilia": 0.9696,
+    "Amphibia": 0.9408,
+    "Mammalia": 0.8116,
+    "Insecta": 0.9962,
+    "Aves": 0.8833
+  },
+  "tta_by_taxon": {
+    "Reptilia": 0.9671,
+    "Amphibia": 0.9409,
+    "Mammalia": 0.8127,
+    "Insecta": 0.9962,
+    "Aves": 0.8838
+  },
+  "wall_sec": 182.5
+}

@@ -1,0 +1,235 @@
+primary_label,scientific_name,common_name,class_name,tier,n_train,n_train_xc,n_train_inat,fetch_cap,latitude,longitude,fetchable_via_xc,inat_taxon_id
+47158son01,Insect son01,Insect sonotype01,Insecta,skip_sonotype,0,0,0,0,,,False,47158
+47158son02,Insect son02,Insect sonotype02,Insecta,skip_sonotype,0,0,0,0,,,False,47158
+47158son03,Insect son03,Insect sonotype03,Insecta,skip_sonotype,0,0,0,0,,,False,47158
+47158son04,Insect son04,Insect sonotype04,Insecta,skip_sonotype,0,0,0,0,,,False,47158
+47158son05,Insect son05,Insect sonotype05,Insecta,skip_sonotype,0,0,0,0,,,False,47158
+47158son06,Insect son06,Insect sonotype06,Insecta,skip_sonotype,0,0,0,0,,,False,47158
+47158son07,Insect son07,Insect sonotype07,Insecta,skip_sonotype,0,0,0,0,,,False,47158
+47158son08,Insect son08,Insect sonotype08,Insecta,skip_sonotype,0,0,0,0,,,False,47158
+47158son09,Insect son09,Insect sonotype09,Insecta,skip_sonotype,0,0,0,0,,,False,47158
+47158son10,Insect son10,Insect sonotype10,Insecta,skip_sonotype,0,0,0,0,,,False,47158
+47158son11,Insect son11,Insect sonotype11,Insecta,skip_sonotype,0,0,0,0,,,False,47158
+47158son12,Insect son12,Insect sonotype12,Insecta,skip_sonotype,0,0,0,0,,,False,47158
+47158son13,Insect son13,Insect sonotype13,Insecta,skip_sonotype,0,0,0,0,,,False,47158
+47158son14,Insect son14,Insect sonotype14,Insecta,skip_sonotype,0,0,0,0,,,False,47158
+47158son15,Insect son15,Insect sonotype15,Insecta,skip_sonotype,0,0,0,0,,,False,47158
+47158son16,Insect son16,Insect sonotype16,Insecta,skip_sonotype,0,0,0,0,,,False,47158
+47158son17,Insect son17,Insect sonotype17,Insecta,skip_sonotype,0,0,0,0,,,False,47158
+47158son18,Insect son18,Insect sonotype18,Insecta,skip_sonotype,0,0,0,0,,,False,47158
+47158son19,Insect son19,Insect sonotype19,Insecta,skip_sonotype,0,0,0,0,,,False,47158
+47158son20,Insect son20,Insect sonotype20,Insecta,skip_sonotype,0,0,0,0,,,False,47158
+47158son21,Insect son21,Insect sonotype21,Insecta,skip_sonotype,0,0,0,0,,,False,47158
+47158son22,Insect son22,Insect sonotype22,Insecta,skip_sonotype,0,0,0,0,,,False,47158
+47158son23,Insect son23,Insect sonotype23,Insecta,skip_sonotype,0,0,0,0,,,False,47158
+47158son24,Insect son24,Insect sonotype24,Insecta,skip_sonotype,0,0,0,0,,,False,47158
+47158son25,Insect son25,Insect sonotype25,Insecta,skip_sonotype,0,0,0,0,,,False,47158
+1491113,Adenomera guarani,Guaraní leaf-litter frog,Amphibia,tier0_missing,0,0,0,50,,,True,1491113
+25073,Chiasmocleis mehelyi,Chiasmocleis mehelyi,Amphibia,tier0_missing,0,0,0,50,,,True,25073
+517063,Pithecopus azureus,Southern Orange-legged Leaf Frog,Amphibia,tier0_missing,0,0,0,50,,,True,517063
+116570,Caiman yacare,Southern Spectacled Caiman,Reptilia,tier1_critical,1,0,1,50,-27.7287,-56.8599,True,116570
+23150,Physalaemus centralis,Central Dwarf Frog,Amphibia,tier1_critical,1,0,1,50,-18.9999,-49.4609,True,23150
+23724,Phyllomedusa sauvagii,Waxy Monkey Tree Frog,Amphibia,tier1_critical,1,0,1,50,-32.4949,-66.0575,True,23724
+516975,Sapajus cay,Hooded Capuchin,Mammalia,tier1_critical,1,0,1,50,-23.888,-54.2489,True,516975
+209233,Equus caballus,Feral Horse,Mammalia,tier1_critical,2,0,2,50,40.01975,-94.63925,True,209233
+24321,Scinax acuminatus,Mato Grosso Snouted Tree Frog,Amphibia,tier1_critical,2,0,2,50,-21.33375,-57.06665,True,24321
+70711,Leptodactylus macrosternum,Cei's White-lipped Frog,Amphibia,tier1_critical,2,0,2,50,-20.226049999999997,-48.5668,True,70711
+25214,Dermatonotus muelleri,Muller's Termite Frog,Amphibia,tier1_critical,3,0,3,50,-19.034,-49.7688,True,25214
+476521,Physalaemus nattereri,Cuyaba Dwarf Frog,Amphibia,tier1_critical,3,0,3,50,-15.8476,-48.1343,True,476521
+555123,Boana lundii,Usina Tree Frog,Amphibia,tier1_critical,3,0,3,50,-15.8112,-47.7665,True,555123
+64898,Ameerega picta,Yungas de la Paz Poison Frog,Amphibia,tier1_critical,3,1,2,50,-14.1825,-67.9156,True,64898
+74580,Mico melanurus,Black-tailed Marmoset,Mammalia,tier1_critical,3,1,2,50,-15.0055,-56.7287,True,74580
+sptnig1,Antiurus maculicaudus,Spot-tailed Nightjar,Aves,tier1_critical,3,0,3,50,-21.3969,-43.0375,True,1584760
+23176,Pseudopaludicola mystacalis,Cope's Swamp Froglet,Amphibia,tier1_critical,4,1,3,50,-12.54945,-38.04315,True,23176
+1595929,Lysapsus limellum,Uruguay Harlequin Frog,Amphibia,tier1_critical,5,1,4,50,-30.2084,-57.6215,True,1595929
+23154,Physalaemus albifrons,Bahia Dwarf Frog,Amphibia,tier1_critical,5,0,5,50,-6.4198,-35.2911,True,23154
+66971,Pseudis platensis,Paraguayan Swimming Frog,Amphibia,tier1_critical,5,0,5,50,-31.6263,-60.878,True,66971
+738183,Plecturocebus pallescens,White-coated Titi,Mammalia,tier1_critical,5,1,4,50,-19.1679,-57.5607,True,738183
+22930,Leptodactylus syphax,Basin White-lipped Frog,Amphibia,tier2_scarce,6,1,5,30,-17.4666,-52.99575,True,22930
+22961,Leptodactylus podicipinus,Pointedbelly Frog,Amphibia,tier2_scarce,6,1,5,30,-23.547449999999998,-52.0339,True,22961
+22985,Leptodactylus petersii,Peter's Jungle Frog,Amphibia,tier2_scarce,6,1,5,30,4.60185,-52.354600000000005,True,22985
+67252,Trachycephalus typhonius,Milk Frog,Amphibia,tier2_scarce,6,3,3,30,-11.87605,-57.4185,True,67252
+760266,Prionacris erosa,Prionacris erosa,Insecta,tier2_scarce,7,0,7,30,-22.3954,-47.5446,True,760266
+22967,Leptodactylus elenae,Marbled White-lipped Frog,Amphibia,tier2_scarce,8,0,8,30,-19.8234,-63.0674,True,22967
+555145,Boana punctata,Polka-dot Tree Frog,Amphibia,tier2_scarce,9,2,7,30,-7.5951,-59.6184,True,555145
+22983,Leptodactylus labyrinthicus,Pepper Frog,Amphibia,tier2_scarce,10,0,10,30,-20.19685,-47.61725,True,22983
+74113,Bos taurus,Highland,Mammalia,tier2_scarce,10,9,1,30,37.0978,-6.4101,True,74113
+1161364,Guyalna cuta,Guyalna cuta,Insecta,tier3_low,11,0,11,20,-22.0843,-46.87,True,1161364
+24287,Scinax fuscomarginatus,Brown-bordered Snouted Tree Frog,Amphibia,tier3_low,11,4,7,20,-16.7993,-47.5496,True,24287
+1176823,Leptodactylus luctator,Wrestler Frog,Amphibia,tier3_low,12,0,12,20,-33.48575,-57.193650000000005,True,1176823
+43435,Alouatta caraya,Black Howling Monkey,Mammalia,tier3_low,14,3,11,20,-25.180149999999998,-57.22665,True,43435
+67107,Rhinella diptycha,Rococo Toad,Amphibia,tier3_low,14,4,10,20,-23.99205,-52.750699999999995,True,67107
+ocecra1,Rufirallus schomburgkii,Ocellated Crake,Aves,tier3_low,15,0,15,20,-23.3358,-52.3705,True,1506288
+555146,Boana raniceps,Chaco Tree Frog,Amphibia,tier3_low,18,3,15,20,-7.8958,-53.98365,True,555146
+nacnig1,Chordeiles nacunda,Nacunda Nighthawk,Aves,tier3_low,18,12,6,20,-25.269849999999998,-58.31805,True,19661
+24285,Scinax fuscovarius,Snouted Tree Frog,Amphibia,tier3_low,19,2,17,20,-25.1641,-48.7205,True,24285
+41970,Panthera onca,Jaguar,Mammalia,tier4_adequate,21,16,5,0,-1.7939,-77.8101,True,41970
+65380,Dendropsophus nanus,Dwarf Tree Frog,Amphibia,tier4_adequate,23,2,21,0,-28.7925,-57.3884,True,65380
+dwatin1,Taoniscus nanus,Dwarf Tinamou,Aves,tier4_adequate,23,22,1,0,-16.8573,-47.4472,True,20714
+23158,Physalaemus albonotatus,Pale-legged Weeping Frog,Amphibia,tier4_adequate,25,3,22,0,-27.4345,-60.634,True,23158
+25092,Elachistocleis bicolor,Two-colored oval frog,Amphibia,tier4_adequate,26,3,23,0,-31.7086,-55.7137,True,25092
+yebcar,Paroaria capitata,Yellow-billed Cardinal,Aves,tier4_adequate,27,22,5,0,-22.1425,-57.1865,True,10257
+326272,Physalaemus biligonigerus,Weeping Frog,Amphibia,tier4_adequate,28,3,25,0,-31.5165,-60.8985,True,326272
+rufcac2,Pseudoseisura unirufa,Rufous Cacholote,Aves,tier4_adequate,28,27,1,0,-16.3834,-56.8764,True,11718
+lesgrf1,Emberizoides ypiranganus,Lesser Grass-Finch,Aves,tier4_adequate,30,25,5,0,-28.54015,-50.36145,True,10555
+22956,Leptodactylus mystacinus,Mustached Frog,Amphibia,tier4_adequate,32,1,31,0,-31.935499999999998,-57.6013,True,22956
+platyr1,Inezia inornata,Plain Inezia,Aves,tier4_adequate,36,27,9,0,-21.6167,-60.12195,True,16344
+cibspi1,Synallaxis hypospodia,Cinereous-breasted Spinetail,Aves,tier4_adequate,41,38,3,0,-13.2503,-56.8448,True,10921
+47144,Canis familiaris,Domestic Dog,Mammalia,tier4_adequate,43,3,40,0,25.1003,102.7057,True,47144
+24279,Scinax nasicus,Lesser Snouted Tree Frog,Amphibia,tier4_adequate,46,3,43,0,-31.63915,-58.2829,True,24279
+65377,Dendropsophus minutus,Lesser Tree Frog,Amphibia,tier4_adequate,46,10,36,0,-23.548099999999998,-49.0349,True,65377
+yecmac,Primolius auricollis,Golden-collared Macaw,Aves,tier4_adequate,46,43,3,0,-17.1025,-58.02675,True,73272
+bafcur1,Crax fasciolata,Bare-faced Curassow,Aves,tier4_adequate,51,45,6,0,-16.62,-54.565,True,2046
+bcwfin2,Microspingus melanoleucus,Black-capped Warbling Finch,Aves,tier4_adequate,56,43,13,0,-30.150199999999998,-61.27355,True,558564
+blchaw1,Busarellus nigricollis,Black-collared Hawk,Aves,tier4_adequate,58,53,5,0,-16.6003,-56.9513,True,5346
+rufcas2,Casiornis rufus,Rufous Casiornis,Aves,tier4_adequate,58,57,1,0,-16.67535,-51.691,True,17102
+whlspi1,Synallaxis albilora,White-lored Spinetail,Aves,tier4_adequate,59,57,2,0,-16.5167,-56.5752,True,10992
+22973,Leptodactylus fuscus,Whistling Grass Frog,Amphibia,tier4_adequate,63,9,54,0,-15.8263,-54.3257,True,22973
+magant1,Cercomacra melanaria,Mato Grosso Antbird,Aves,tier4_adequate,63,61,2,0,-16.7581,-56.8501,True,15737
+hyamac1,Anodorhynchus hyacinthinus,Hyacinth Macaw,Aves,tier4_adequate,65,59,6,0,-16.5167,-56.7126,True,18938
+ficman1,Machaeropterus pyrocephalus,Fiery-capped Manakin,Aves,tier4_adequate,66,62,4,0,-10.4214,-55.7169,True,14344
+pluibi1,Theristicus caerulescens,Plumbeous Ibis,Aves,tier4_adequate,68,58,10,0,-18.99885,-56.8764,True,3768
+palhor3,Furnarius leucopus,Pale-legged Hornero,Aves,tier4_adequate,69,65,4,0,-9.5937,-66.0987,True,11281
+sabspa1,Arremon flavirostris,Saffron-billed Sparrow,Aves,tier4_adequate,69,56,13,0,-21.854,-53.8803,True,10064
+blttit1,Tityra cayana,Black-tailed Tityra,Aves,tier4_adequate,71,68,3,0,-16.0538,-52.1851,True,8830
+grepot1,Nyctibius grandis,Great Potoo,Aves,tier4_adequate,72,59,13,0,-2.9663500000000003,-70.5735,True,19680
+magtan2,Cissopis leverianus,Magpie Tanager,Aves,tier4_adequate,74,66,8,0,-17.5544,-53.8964,True,72727
+whbant2,Biatas nigropectus,White-bearded Antshrike,Aves,tier4_adequate,75,63,12,0,-24.2783,-48.4334,True,15902
+purjay1,Cyanocorax cyanomelas,Purplish Jay,Aves,tier4_adequate,77,64,13,0,-17.9513,-58.141,True,8483
+fabwre1,Cantorchilus guarayanus,Fawn-breasted Wren,Aves,tier4_adequate,79,74,5,0,-16.9398,-62.9065,True,144880
+crebec1,Pachyramphus validus,Crested Becard,Aves,tier4_adequate,81,69,12,0,-23.07,-49.1572,True,8681
+orbtro3,Icterus croconotus,Orange-backed Troupial,Aves,tier4_adequate,81,77,4,0,-13.3725,-60.8972,True,62564
+yehcar1,Daptrius chimachima,Yellow-headed Caracara,Aves,tier4_adequate,82,0,82,0,-6.9574,-55.52005,True,1432779
+fotfly,Tyrannus savana,Fork-tailed Flycatcher,Aves,tier4_adequate,83,67,16,0,-22.1978,-54.5854,True,16793
+whwpic1,Picumnus albosquamatus,White-wedged Piculet,Aves,tier4_adequate,83,82,1,0,-16.4727,-49.2888,True,17786
+ruther1,Tigrisoma lineatum,Rufescent Tiger Heron,Aves,tier4_adequate,86,77,9,0,-14.8688,-58.8733,True,5048
+grhtan1,Eucometis penicillata,Grey-headed Tanager,Aves,tier4_adequate,94,89,5,0,-14.625,-56.662,True,10698
+smbtin1,Crypturellus parvirostris,Small-billed Tinamou,Aves,tier4_adequate,94,76,18,0,-15.65655,-48.8224,True,20570
+ruftho1,Phacellodomus rufifrons,Rufous-fronted Thornbird,Aves,tier4_adequate,98,88,10,0,-14.0816,-47.34465,True,11624
+ruftof1,Poecilotriccus latirostris,Rusty-fronted Tody-Flycatcher,Aves,tier4_adequate,98,96,2,0,-14.8264,-55.2566,True,17026
+swthum1,Eupetomena macroura,Swallow-tailed Hummingbird,Aves,tier4_adequate,98,76,22,0,-17.04635,-48.15245,True,6065
+chacha1,Ortalis canicollis,Chaco Chachalaca,Aves,tier4_adequate,99,70,29,0,-20.086,-58.141,True,2088
+rivwar1,Myiothlypis rivularis,Riverbank Warbler,Aves,tier4_adequate,100,86,14,0,-23.707549999999998,-48.294650000000004,True,145267
+shshaw,Accipiter striatus,Sharp-shinned Hawk,Aves,tier4_adequate,101,46,55,0,41.0654,-80.3052,True,5097
+horscr1,Anhima cornuta,Horned Screamer,Aves,tier4_adequate,102,89,13,0,-6.981949999999999,-64.5417,True,6908
+ragmac1,Ara chloropterus,Red-and-green Macaw,Aves,tier4_adequate,102,94,8,0,-11.9742,-58.7949,True,19016
+scther1,Phaethornis eurynome,Scale-throated Hermit,Aves,tier4_adequate,103,98,5,0,-23.3309,-46.292,True,5622
+souscr1,Chauna torquata,Southern Screamer,Aves,tier4_adequate,103,71,32,0,-28.0342,-57.7376,True,6910
+litcuc2,Coccycua minuta,Little Cuckoo,Aves,tier4_adequate,104,98,6,0,-0.498,-71.57875,True,72740
+mabpar,Pyrrhura frontalis,Maroon-bellied Parakeet,Aves,tier4_adequate,105,67,38,0,-24.1086,-48.4073,True,19162
+whnjay1,Cyanocorax cyanopogon,White-naped Jay,Aves,tier4_adequate,105,76,29,0,-12.5834,-44.2501,True,8469
+ashgre1,Hylophilus pectoralis,Ashy-headed Greenlet,Aves,tier4_adequate,106,95,11,0,-10.5586,-51.2933,True,17431
+bkhpar,Aratinga nenday,Nanday Parakeet,Aves,tier4_adequate,109,31,78,0,26.6409,-80.037,True,367562
+glteme1,Chionomesa fimbriata,Glittering-throated Emerald,Aves,tier4_adequate,109,103,6,0,-14.625,-49.285,True,1289639
+litnig1,Setopagis parvula,Little Nightjar,Aves,tier4_adequate,109,67,42,0,-22.7295,-55.7889,True,367507
+giwrai1,Aramides ypecaha,Giant Wood Rail,Aves,tier4_adequate,111,52,59,0,-31.5205,-57.9864,True,460
+gilhum1,Hylocharis chrysura,Gilded Hummingbird,Aves,tier4_adequate,117,61,56,0,-28.5332,-57.9231,True,5979
+chvcon1,Conirostrum speciosum,Chestnut-vented Conebill,Aves,tier4_adequate,120,111,9,0,-17.03615,-49.170500000000004,True,10013
+plasla1,Thamnophilus pelzelni,Planalto Slaty Antshrike,Aves,tier4_adequate,120,115,5,0,-15.065000000000001,-47.7648,True,73493
+lesela1,Elaenia chiriquensis,Lesser Elaenia,Aves,tier4_adequate,121,105,16,0,-14.625,-50.2667,True,578460
+camfli1,Colaptes campestris,Campo Flicker,Aves,tier4_adequate,122,95,27,0,-23.4998,-50.24375,True,18262
+brcmar1,Progne tapera,Brown-chested Martin,Aves,tier4_adequate,123,97,26,0,-19.2237,-55.9297,True,11870
+bucpar,Thectocercus acuticaudatus,Blue-crowned Parakeet,Aves,tier4_adequate,124,70,54,0,21.70065,-61.209599999999995,True,367564
+recfin1,Coryphospingus cucullatus,Red-crested Finch,Aves,tier4_adequate,126,118,8,0,-22.3243,-56.6289,True,10310
+greani1,Crotophaga major,Greater Ani,Aves,tier4_adequate,127,117,10,0,-13.8891,-52.5698,True,1970
+astcra1,Mustelirallus albicollis,Ash-throated Crake,Aves,tier4_adequate,128,104,24,0,-19.073,-50.635400000000004,True,508907
+wfwduc1,Dendrocygna viduata,White-faced Whistling Duck,Aves,tier4_adequate,133,109,24,0,-17.3949,-42.7735,True,6898
+watjac1,Jacana jacana,Wattled Jacana,Aves,tier4_adequate,134,120,14,0,-13.5086,-58.480599999999995,True,4580
+relser1,Cariama cristata,Red-legged Seriema,Aves,tier4_adequate,135,82,53,0,-19.7656,-48.0445,True,14
+wesfie1,Pyriglena maura,Western Fire-eye,Aves,tier4_adequate,136,131,5,0,-1.6723,-77.1375,True,1286886
+tattin1,Crypturellus tataupa,Tataupa Tinamou,Aves,tier4_adequate,138,98,40,0,-23.093049999999998,-54.1168,True,20587
+larela1,Elaenia spectabilis,Large Elaenia,Aves,tier4_adequate,144,93,51,0,-23.11435,-53.7646,True,16734
+schpar1,Pionus maximiliani,Scaly-headed Parrot,Aves,tier4_adequate,145,116,29,0,-23.2119,-47.2809,True,19094
+toctou1,Ramphastos toco,Toco Toucan,Aves,tier4_adequate,148,106,42,0,-21.215600000000002,-49.5177,True,18793
+phecuc1,Dromococcyx phasianellus,Pheasant Cuckoo,Aves,tier4_adequate,149,112,37,0,4.3758,-77.803,True,1982
+whiwoo1,Melanerpes candidus,White Woodpecker,Aves,tier4_adequate,150,82,68,0,-23.4869,-49.6457,True,18183
+gretho2,Phacellodomus ruber,Greater Thornbird,Aves,tier4_adequate,153,90,63,0,-27.4369,-58.5888,True,11632
+rufgna3,Conopophaga lineata,Rufous Gnateater,Aves,tier4_adequate,159,138,21,0,-23.3248,-46.9094,True,578313
+souant1,Corythopis delalandi,Southern Antpipit,Aves,tier4_adequate,159,124,35,0,-22.5001,-49.1691,True,17264
+picpig2,Patagioenas picazuro,Picazuro Pigeon,Aves,tier4_adequate,162,93,69,0,-23.4972,-51.4426,True,3102
+shtnig1,Lurocalis semitorquatus,Short-tailed Nighthawk,Aves,tier4_adequate,163,133,30,0,-18.3954,-49.604,True,19645
+scadov1,Columbina squammata,Scaled Dove,Aves,tier4_adequate,164,115,49,0,-14.625,-49.4959,True,3564
+strher2,Butorides striata,Striated Heron,Aves,tier4_adequate,164,153,11,0,-2.5552,-42.83085,True,62528
+baymac,Ara ararauna,Blue-and-yellow Macaw,Aves,tier4_adequate,167,136,31,0,-12.2755,-62.2945,True,19018
+blheag1,Spizaetus tyrannus,Black Hawk-Eagle,Aves,tier4_adequate,169,124,45,0,-9.2856,-55.1251,True,5291
+bucmot4,Momotus momota,Amazonian Motmot,Aves,tier4_adequate,169,150,19,0,-6.7394,-60.7402,True,204447
+bunibi1,Theristicus caudatus,Buff-necked Ibis,Aves,tier4_adequate,174,127,47,0,-18.2058,-54.103,True,3766
+244024,Quesada gigas,Giant Cicada,Insecta,tier4_adequate,181,0,181,0,14.0801,-87.1733,True,244024
+rebscy1,Campylorhamphus trochilirostris,Red-billed Scythebill,Aves,tier4_adequate,182,172,10,0,-12.99705,-60.629000000000005,True,11201
+sobcac1,Cacicus solitarius,Solitary Cacique,Aves,tier4_adequate,183,125,58,0,-17.3722,-59.2649,True,10365
+strowl1,Asio clamator,Striped Owl,Aves,tier4_adequate,184,121,63,0,-19.95765,-57.560900000000004,True,558468
+plcjay1,Cyanocorax chrysops,Plush-crested Jay,Aves,tier4_adequate,186,120,66,0,-25.52515,-54.462450000000004,True,8484
+epaori4,Icterus pyrrhopterus,Variable Oriole,Aves,tier4_adequate,188,113,75,0,-23.6782,-53.99075,True,72954
+y00678,Caracara plancus,Crested Caracara,Aves,tier4_adequate,188,127,61,0,-16.508049999999997,-58.5353,True,4715
+bkcdon,Donacobius atricapilla,Black-capped Donacobius,Aves,tier4_adequate,189,172,17,0,-14.0858,-55.1326,True,116877
+grfdov1,Leptotila rufaxilla,Grey-fronted Dove,Aves,tier4_adequate,195,175,20,0,-9.642,-55.5786,True,3302
+orwpar,Amazona amazonica,Orange-winged Amazon,Aves,tier4_adequate,195,148,47,0,-5.7717,-52.505,True,18982
+flawar1,Myiothlypis flaveola,Flavescent Warbler,Aves,tier4_adequate,204,186,18,0,-16.0538,-48.3666,True,201223
+undtin1,Crypturellus undulatus,Undulated Tinamou,Aves,tier4_adequate,204,177,27,0,-12.866,-56.864599999999996,True,20592
+spbant3,Hypoedaleus guttatus,Spot-backed Antshrike,Aves,tier4_adequate,205,134,71,0,-23.6042,-46.9632,True,15959
+bufpar,Amazona aestiva,Turquoise-fronted Amazon,Aves,tier4_adequate,206,124,82,0,-22.578400000000002,-50.56715,True,18978
+redjun,Gallus gallus,Red Junglefowl,Aves,tier4_adequate,208,122,86,0,11.5803,102.77484999999999,True,882
+thlwre1,Campylorhynchus turdinus,Thrush-like Wren,Aves,tier4_adequate,213,171,42,0,-15.4297,-57.2932,True,7480
+stbwoo2,Dendroplex picus,Straight-billed Woodcreeper,Aves,tier4_adequate,219,205,14,0,-5.9728,-63.2057,True,72806
+shcfly1,Myiarchus ferox,Short-crested Flycatcher,Aves,tier4_adequate,223,186,37,0,-15.699,-49.604,True,16006
+greela,Myiopagis viridicata,Greenish Elaenia,Aves,tier4_adequate,224,199,25,0,-12.273399999999999,-64.41675000000001,True,16892
+sibtan2,Ramphocelus carbo,Silver-beaked Tanager,Aves,tier4_adequate,226,205,21,0,-5.90965,-60.51445,True,10056
+batbel1,Procnias nudicollis,Bare-throated Bellbird,Aves,tier4_adequate,229,129,100,0,-23.5432,-46.6374,True,8854
+rinkin1,Megaceryle torquata,Ringed Kingfisher,Aves,tier4_adequate,235,184,51,0,-0.523,-72.0953,True,2552
+burowl,Athene cunicularia,Burrowing Owl,Aves,tier4_adequate,238,130,108,0,-9.75165,-70.81995,True,19975
+spispi1,Synallaxis spixi,Spix's Spinetail,Aves,tier4_adequate,239,118,121,0,-24.2667,-48.4799,True,10915
+pvttyr1,Hemitriccus margaritaceiventer,Pearly-vented Tody-Tyrant,Aves,tier4_adequate,241,202,39,0,-19.2667,-56.8764,True,16273
+whbwar2,Myiothlypis leucoblephara,White-browed Warbler,Aves,tier4_adequate,243,113,130,0,-26.5369,-51.5218,True,201224
+yecpar,Brotogeris chiriri,Yellow-chevroned Parakeet,Aves,tier4_adequate,243,127,116,0,-16.5122,-51.703,True,19215
+chobla1,Gnorimopsar chopi,Chopi Blackbird,Aves,tier4_adequate,244,160,84,0,-17.90975,-51.703,True,10723
+paltan1,Thraupis palmarum,Palm Tanager,Aves,tier4_adequate,247,185,62,0,-3.5664,-59.8673,True,10297
+rumfly1,Myiozetetes cayanensis,Rusty-margined Flycatcher,Aves,tier4_adequate,247,212,35,0,0.1607,-68.9938,True,16833
+fusfly1,Cnemotriccus fuscatus,Fuscous Flycatcher,Aves,tier4_adequate,248,222,26,0,-16.49175,-52.3775,True,17076
+rufnig1,Antrostomus rufus,Rufous Nightjar,Aves,tier4_adequate,256,112,144,0,-2.9666,-60.7388,True,201066
+masgna1,Polioptila dumicola,Masked Gnatcatcher,Aves,tier4_adequate,263,199,64,0,-22.6562,-57.4501,True,7509
+rutjac1,Galbula ruficauda,Rufous-tailed Jacamar,Aves,tier4_adequate,265,228,37,0,-6.5142,-58.29,True,1468
+crbthr1,Turdus amaurochalinus,Creamy-bellied Thrush,Aves,tier4_adequate,269,157,112,0,-25.6669,-55.6426,True,12710
+chbmoc1,Mimus saturninus,Chalk-browed Mockingbird,Aves,tier4_adequate,270,135,135,0,-26.7166,-54.1543,True,14878
+saytan1,Thraupis sayaca,Sayaca Tanager,Aves,tier4_adequate,278,149,129,0,-23.582349999999998,-53.3108,True,10293
+varant1,Thamnophilus caerulescens,Variable Antshrike,Aves,tier4_adequate,291,212,79,0,-23.2845,-49.4856,True,15757
+yebela1,Elaenia flavogaster,Yellow-bellied Elaenia,Aves,tier4_adequate,297,241,56,0,-5.9307,-54.5898,True,16714
+smbani,Crotophaga ani,Smooth-billed Ani,Aves,tier4_adequate,305,230,75,0,-0.2283,-70.4332,True,1971
+rufhor2,Furnarius rufus,Rufous Hornero,Aves,tier4_adequate,315,163,152,0,-25.5963,-58.1302,True,11275
+pabspi1,Synallaxis albescens,Pale-breasted Spinetail,Aves,tier4_adequate,316,222,94,0,-3.2231,-64.50145,True,10999
+baffal1,Micrastur ruficollis,Barred Forest-Falcon,Aves,tier4_adequate,337,300,37,0,-7.3984,-64.2667,True,4699
+pirfly1,Legatus leucophaius,Piratic Flycatcher,Aves,tier4_adequate,345,297,48,0,-1.4585,-67.8809,True,17312
+eulfly1,Lathrotriccus euleri,Euler's Flycatcher,Aves,tier4_adequate,355,297,58,0,-19.8834,-53.728,True,17231
+swtman1,Chiroxiphia caudata,Swallow-tailed Manakin,Aves,tier4_adequate,355,229,126,0,-23.6084,-46.5858,True,14306
+linwoo1,Dryocopus lineatus,Lineated Woodpecker,Aves,tier4_adequate,356,278,78,0,-3.7070499999999997,-66.81045,True,17858
+grasal3,Saltator coerulescens,Bluish-grey Saltator,Aves,tier4_adequate,362,241,121,0,-17.5255,-60.587,True,9850
+compot1,Nyctibius griseus,Common Potoo,Aves,tier4_adequate,368,185,183,0,-9.66575,-59.19725,True,19667
+limpki,Aramus guarauna,Limpkin,Aves,tier4_adequate,405,168,237,0,26.0357,-80.7591,True,7
+oliwoo1,Sittasomus griseicapillus,Olivaceous Woodcreeper,Aves,tier4_adequate,424,341,83,0,-14.677800000000001,-54.1937,True,11511
+squcuc1,Piaya cayana,Common Squirrel-Cuckoo,Aves,tier4_adequate,432,348,84,0,-6.7072,-63.9445,True,1758
+gycwor1,Aramides cajaneus,Grey-cowled Wood Rail,Aves,tier4_adequate,436,232,204,0,-10.2855,-58.58005,True,513889
+sofspi1,Synallaxis frontalis,Sooty-fronted Spinetail,Aves,tier4_adequate,437,236,201,0,-24.0458,-57.4501,True,10996
+barant1,Thamnophilus doliatus,Barred Antshrike,Aves,tier4_adequate,454,333,121,0,-0.552,-65.72460000000001,True,15764
+brnowl,Tyto furcata,American Barn Owl,Aves,tier4_adequate,474,122,352,0,32.926100000000005,-101.74995,True,1578502
+greant1,Taraba major,Great Antshrike,Aves,tier4_adequate,475,359,116,0,-11.1258,-60.9225,True,15957
+greyel,Tringa melanoleuca,Greater Yellowlegs,Aves,tier4_adequate,475,166,309,0,40.4591,-84.0878,True,3892
+saffin,Sicalis flaveola,Saffron Finch,Aves,tier4_adequate,479,236,243,0,-20.4499,-58.3615,True,9864
+grekis,Pitangus sulphuratus,Great Kiskadee,Aves,tier4_adequate,482,181,301,0,6.51385,-76.041,True,16956
+trokin,Tyrannus melancholicus,Tropical Kingbird,Aves,tier4_adequate,483,248,235,0,9.9373,-82.0562,True,16787
+strcuc1,Tapera naevia,Striped Cuckoo,Aves,tier4_adequate,485,281,204,0,-15.9249,-60.6397,True,1989
+roahaw,Rupornis magnirostris,Roadside Hawk,Aves,tier4_adequate,489,258,231,0,3.5026,-74.1183,True,201041
+sobtyr1,Camptostoma obsoletum,Southern Beardless Tyrannulet,Aves,tier4_adequate,490,358,132,0,-11.79675,-60.70685,True,16972
+bbwduc,Dendrocygna autumnalis,Black-bellied Whistling Duck,Aves,tier4_adequate,491,208,283,0,27.9643,-89.877,True,6893
+trsowl,Megascops choliba,Tropical Screech Owl,Aves,tier4_adequate,491,261,230,0,-16.5631,-59.597,True,19788
+whtdov,Leptotila verreauxi,White-tipped Dove,Aves,tier4_adequate,491,294,197,0,-0.0773,-75.1349,True,3280
+bncfly,Myiarchus tyrannulus,Brown-crested Flycatcher,Aves,tier4_adequate,492,331,161,0,19.07745,-89.7482,True,16016
+bobfly1,Megarynchus pitangua,Boat-billed Flycatcher,Aves,tier4_adequate,492,297,195,0,-0.523,-73.47229999999999,True,16737
+compau,Nyctidromus albicollis,Pauraque,Aves,tier4_adequate,493,223,270,0,4.9079,-76.2888,True,19627
+yeofly1,Tolmomyias sulphurescens,Yellow-olive Flatbill,Aves,tier4_adequate,493,415,78,0,-15.352,-53.991,True,16567
+socfly1,Myiozetetes similis,Social Flycatcher,Aves,tier4_adequate,494,277,217,0,9.8328,-82.8408,True,16842
+coffal1,Micrastur semitorquatus,Collared Forest-Falcon,Aves,tier4_adequate,495,285,210,0,6.9923,-78.867,True,4698
+osprey,Pandion haliaetus,Osprey,Aves,tier4_adequate,495,121,374,0,39.2112,-81.0559,True,116999
+houspa,Passer domesticus,House Sparrow,Aves,tier4_adequate,496,111,385,0,43.0496,-8.6005,True,13858
+fepowl,Glaucidium brasilianum,Ferruginous Pygmy Owl,Aves,tier4_adequate,497,208,289,0,10.2296,-84.185,True,19822
+soulap1,Vanellus chilensis,Southern Lapwing,Aves,tier4_adequate,497,250,247,0,-22.4084,-64.9646,True,4867
+banana,Coereba flaveola,Bananaquit,Aves,tier4_adequate,498,325,173,0,0.7093,-65.78899999999999,True,10199
+rubthr1,Turdus rufiventris,Rufous-bellied Thrush,Aves,tier4_adequate,499,249,250,0,-26.907,-52.2304,True,12738

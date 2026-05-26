@@ -1,0 +1,19 @@
+aug:
+  noise_sigma: 0.05
+  p_shuffle: 0.3
+  p_window_dropout: 0.1
+batch_size: 16
+classmates:
+- proto_ssm
+- mlp_mixer
+conf_threshold: 0.7
+epochs: 2
+lam_u_warmup_epochs: 3
+lambda_u: 0.5
+lr: 0.0004
+mixup_alpha: 0.4
+sharpen_T: 0.5
+warm_start:
+- true
+- false
+weight_decay: 0.01

@@ -1,0 +1,24 @@
+{
+  "classmates": [
+    "proto_ssm",
+    "mlp_mixer"
+  ],
+  "warm_start": [
+    true,
+    false
+  ],
+  "epochs": 20,
+  "batch_size": 16,
+  "lr": 0.0004,
+  "weight_decay": 0.01,
+  "lambda_u": 0.5,
+  "lam_u_warmup_epochs": 3,
+  "sharpen_T": 0.5,
+  "conf_threshold": 0.7,
+  "mixup_alpha": 0.4,
+  "aug": {
+    "noise_sigma": 0.05,
+    "p_window_dropout": 0.1,
+    "p_shuffle": 0.3
+  }
+}

@@ -1,0 +1,160 @@
+{"ts": "2026-05-18T09:06:04Z", "kind": "query", "species": "1491113", "detail": {"query": "gen:Adenomera sp:guarani", "n_results": 0}}
+{"ts": "2026-05-18T09:06:04Z", "kind": "skip", "species": "1491113", "detail": {"reason": "metadata-only", "would_download": 0, "n_restricted": 0, "n_total": 0}}
+{"ts": "2026-05-18T09:06:05Z", "kind": "query", "species": "25073", "detail": {"query": "gen:Chiasmocleis sp:mehelyi", "n_results": 0}}
+{"ts": "2026-05-18T09:06:05Z", "kind": "skip", "species": "25073", "detail": {"reason": "metadata-only", "would_download": 0, "n_restricted": 0, "n_total": 0}}
+{"ts": "2026-05-18T09:06:06Z", "kind": "query", "species": "517063", "detail": {"query": "gen:Pithecopus sp:azureus", "n_results": 0}}
+{"ts": "2026-05-18T09:06:06Z", "kind": "skip", "species": "517063", "detail": {"reason": "metadata-only", "would_download": 0, "n_restricted": 0, "n_total": 0}}
+{"ts": "2026-05-18T09:06:08Z", "kind": "query", "species": "116570", "detail": {"query": "gen:Caiman sp:yacare", "n_results": 0}}
+{"ts": "2026-05-18T09:06:08Z", "kind": "skip", "species": "116570", "detail": {"reason": "metadata-only", "would_download": 0, "n_restricted": 0, "n_total": 0}}
+{"ts": "2026-05-18T09:06:09Z", "kind": "query", "species": "23150", "detail": {"query": "gen:Physalaemus sp:centralis", "n_results": 0}}
+{"ts": "2026-05-18T09:06:09Z", "kind": "skip", "species": "23150", "detail": {"reason": "metadata-only", "would_download": 0, "n_restricted": 0, "n_total": 0}}
+{"ts": "2026-05-18T09:06:10Z", "kind": "query", "species": "23724", "detail": {"query": "gen:Phyllomedusa sp:sauvagii", "n_results": 0}}
+{"ts": "2026-05-18T09:06:10Z", "kind": "skip", "species": "23724", "detail": {"reason": "metadata-only", "would_download": 0, "n_restricted": 0, "n_total": 0}}
+{"ts": "2026-05-18T09:06:11Z", "kind": "query", "species": "516975", "detail": {"query": "gen:Sapajus sp:cay", "n_results": 0}}
+{"ts": "2026-05-18T09:06:11Z", "kind": "skip", "species": "516975", "detail": {"reason": "metadata-only", "would_download": 0, "n_restricted": 0, "n_total": 0}}
+{"ts": "2026-05-18T09:06:12Z", "kind": "query", "species": "209233", "detail": {"query": "gen:Equus sp:caballus", "n_results": 1}}
+{"ts": "2026-05-18T09:06:12Z", "kind": "skip", "species": "209233", "detail": {"reason": "metadata-only", "would_download": 1, "n_restricted": 0, "n_total": 1}}
+{"ts": "2026-05-18T09:06:13Z", "kind": "query", "species": "24321", "detail": {"query": "gen:Scinax sp:acuminatus", "n_results": 0}}
+{"ts": "2026-05-18T09:06:13Z", "kind": "skip", "species": "24321", "detail": {"reason": "metadata-only", "would_download": 0, "n_restricted": 0, "n_total": 0}}
+{"ts": "2026-05-18T09:06:14Z", "kind": "query", "species": "70711", "detail": {"query": "gen:Leptodactylus sp:macrosternum", "n_results": 0}}
+{"ts": "2026-05-18T09:06:14Z", "kind": "skip", "species": "70711", "detail": {"reason": "metadata-only", "would_download": 0, "n_restricted": 0, "n_total": 0}}
+{"ts": "2026-05-18T09:06:15Z", "kind": "query", "species": "25214", "detail": {"query": "gen:Dermatonotus sp:muelleri", "n_results": 0}}
+{"ts": "2026-05-18T09:06:15Z", "kind": "skip", "species": "25214", "detail": {"reason": "metadata-only", "would_download": 0, "n_restricted": 0, "n_total": 0}}
+{"ts": "2026-05-18T09:06:16Z", "kind": "query", "species": "476521", "detail": {"query": "gen:Physalaemus sp:nattereri", "n_results": 0}}
+{"ts": "2026-05-18T09:06:16Z", "kind": "skip", "species": "476521", "detail": {"reason": "metadata-only", "would_download": 0, "n_restricted": 0, "n_total": 0}}
+{"ts": "2026-05-18T09:06:17Z", "kind": "query", "species": "555123", "detail": {"query": "gen:Boana sp:lundii", "n_results": 0}}
+{"ts": "2026-05-18T09:06:17Z", "kind": "skip", "species": "555123", "detail": {"reason": "metadata-only", "would_download": 0, "n_restricted": 0, "n_total": 0}}
+{"ts": "2026-05-18T09:06:18Z", "kind": "query", "species": "64898", "detail": {"query": "gen:Ameerega sp:picta", "n_results": 3}}
+{"ts": "2026-05-18T09:06:18Z", "kind": "skip", "species": "64898", "detail": {"reason": "metadata-only", "would_download": 2, "n_restricted": 0, "n_total": 3}}
+{"ts": "2026-05-18T09:06:19Z", "kind": "query", "species": "74580", "detail": {"query": "gen:Mico sp:melanurus", "n_results": 2}}
+{"ts": "2026-05-18T09:06:19Z", "kind": "skip", "species": "74580", "detail": {"reason": "metadata-only", "would_download": 1, "n_restricted": 0, "n_total": 2}}
+{"ts": "2026-05-18T09:06:20Z", "kind": "query", "species": "sptnig1", "detail": {"query": "gen:Antiurus sp:maculicaudus", "n_results": 0}}
+{"ts": "2026-05-18T09:06:20Z", "kind": "skip", "species": "sptnig1", "detail": {"reason": "metadata-only", "would_download": 0, "n_restricted": 0, "n_total": 0}}
+{"ts": "2026-05-18T09:06:21Z", "kind": "query", "species": "23176", "detail": {"query": "gen:Pseudopaludicola sp:mystacalis", "n_results": 1}}
+{"ts": "2026-05-18T09:06:21Z", "kind": "skip", "species": "23176", "detail": {"reason": "metadata-only", "would_download": 0, "n_restricted": 0, "n_total": 1}}
+{"ts": "2026-05-18T09:06:23Z", "kind": "query", "species": "1595929", "detail": {"query": "gen:Lysapsus sp:limellum", "n_results": 1}}
+{"ts": "2026-05-18T09:06:23Z", "kind": "skip", "species": "1595929", "detail": {"reason": "metadata-only", "would_download": 0, "n_restricted": 0, "n_total": 1}}
+{"ts": "2026-05-18T09:06:23Z", "kind": "query", "species": "23154", "detail": {"query": "gen:Physalaemus sp:albifrons", "n_results": 0}}
+{"ts": "2026-05-18T09:06:23Z", "kind": "skip", "species": "23154", "detail": {"reason": "metadata-only", "would_download": 0, "n_restricted": 0, "n_total": 0}}
+{"ts": "2026-05-18T09:06:24Z", "kind": "query", "species": "66971", "detail": {"query": "gen:Pseudis sp:platensis", "n_results": 0}}
+{"ts": "2026-05-18T09:06:24Z", "kind": "skip", "species": "66971", "detail": {"reason": "metadata-only", "would_download": 0, "n_restricted": 0, "n_total": 0}}
+{"ts": "2026-05-18T09:06:25Z", "kind": "query", "species": "738183", "detail": {"query": "gen:Plecturocebus sp:pallescens", "n_results": 1}}
+{"ts": "2026-05-18T09:06:25Z", "kind": "skip", "species": "738183", "detail": {"reason": "metadata-only", "would_download": 0, "n_restricted": 0, "n_total": 1}}
+{"ts": "2026-05-18T09:06:27Z", "kind": "query", "species": "22930", "detail": {"query": "gen:Leptodactylus sp:syphax", "n_results": 1}}
+{"ts": "2026-05-18T09:06:27Z", "kind": "skip", "species": "22930", "detail": {"reason": "metadata-only", "would_download": 0, "n_restricted": 0, "n_total": 1}}
+{"ts": "2026-05-18T09:06:28Z", "kind": "query", "species": "22961", "detail": {"query": "gen:Leptodactylus sp:podicipinus", "n_results": 2}}
+{"ts": "2026-05-18T09:06:28Z", "kind": "skip", "species": "22961", "detail": {"reason": "metadata-only", "would_download": 1, "n_restricted": 0, "n_total": 2}}
+{"ts": "2026-05-18T09:06:29Z", "kind": "query", "species": "22985", "detail": {"query": "gen:Leptodactylus sp:petersii", "n_results": 4}}
+{"ts": "2026-05-18T09:06:29Z", "kind": "skip", "species": "22985", "detail": {"reason": "metadata-only", "would_download": 3, "n_restricted": 0, "n_total": 4}}
+{"ts": "2026-05-18T09:06:30Z", "kind": "query", "species": "67252", "detail": {"query": "gen:Trachycephalus sp:typhonius", "n_results": 14}}
+{"ts": "2026-05-18T09:06:30Z", "kind": "skip", "species": "67252", "detail": {"reason": "metadata-only", "would_download": 11, "n_restricted": 0, "n_total": 14}}
+{"ts": "2026-05-18T09:06:32Z", "kind": "query", "species": "760266", "detail": {"query": "gen:Prionacris sp:erosa", "n_results": 0}}
+{"ts": "2026-05-18T09:06:32Z", "kind": "skip", "species": "760266", "detail": {"reason": "metadata-only", "would_download": 0, "n_restricted": 0, "n_total": 0}}
+{"ts": "2026-05-18T09:06:32Z", "kind": "query", "species": "22967", "detail": {"query": "gen:Leptodactylus sp:elenae", "n_results": 0}}
+{"ts": "2026-05-18T09:06:32Z", "kind": "skip", "species": "22967", "detail": {"reason": "metadata-only", "would_download": 0, "n_restricted": 0, "n_total": 0}}
+{"ts": "2026-05-18T09:06:34Z", "kind": "query", "species": "555145", "detail": {"query": "gen:Boana sp:punctata", "n_results": 9}}
+{"ts": "2026-05-18T09:06:34Z", "kind": "skip", "species": "555145", "detail": {"reason": "metadata-only", "would_download": 7, "n_restricted": 0, "n_total": 9}}
+{"ts": "2026-05-18T09:06:34Z", "kind": "query", "species": "22983", "detail": {"query": "gen:Leptodactylus sp:labyrinthicus", "n_results": 0}}
+{"ts": "2026-05-18T09:06:34Z", "kind": "skip", "species": "22983", "detail": {"reason": "metadata-only", "would_download": 0, "n_restricted": 0, "n_total": 0}}
+{"ts": "2026-05-18T09:06:36Z", "kind": "query", "species": "74113", "detail": {"query": "gen:Bos sp:taurus", "n_results": 11}}
+{"ts": "2026-05-18T09:06:36Z", "kind": "skip", "species": "74113", "detail": {"reason": "metadata-only", "would_download": 2, "n_restricted": 0, "n_total": 11}}
+{"ts": "2026-05-18T09:06:37Z", "kind": "query", "species": "1161364", "detail": {"query": "gen:Guyalna sp:cuta", "n_results": 0}}
+{"ts": "2026-05-18T09:06:37Z", "kind": "skip", "species": "1161364", "detail": {"reason": "metadata-only", "would_download": 0, "n_restricted": 0, "n_total": 0}}
+{"ts": "2026-05-18T09:06:38Z", "kind": "query", "species": "24287", "detail": {"query": "gen:Scinax sp:fuscomarginatus", "n_results": 4}}
+{"ts": "2026-05-18T09:06:38Z", "kind": "skip", "species": "24287", "detail": {"reason": "metadata-only", "would_download": 0, "n_restricted": 0, "n_total": 4}}
+{"ts": "2026-05-18T09:06:39Z", "kind": "query", "species": "1176823", "detail": {"query": "gen:Leptodactylus sp:luctator", "n_results": 0}}
+{"ts": "2026-05-18T09:06:39Z", "kind": "skip", "species": "1176823", "detail": {"reason": "metadata-only", "would_download": 0, "n_restricted": 0, "n_total": 0}}
+{"ts": "2026-05-18T09:06:40Z", "kind": "query", "species": "43435", "detail": {"query": "gen:Alouatta sp:caraya", "n_results": 3}}
+{"ts": "2026-05-18T09:06:40Z", "kind": "skip", "species": "43435", "detail": {"reason": "metadata-only", "would_download": 0, "n_restricted": 0, "n_total": 3}}
+{"ts": "2026-05-18T09:06:41Z", "kind": "query", "species": "67107", "detail": {"query": "gen:Rhinella sp:diptycha", "n_results": 4}}
+{"ts": "2026-05-18T09:06:41Z", "kind": "skip", "species": "67107", "detail": {"reason": "metadata-only", "would_download": 0, "n_restricted": 0, "n_total": 4}}
+{"ts": "2026-05-18T09:06:42Z", "kind": "query", "species": "ocecra1", "detail": {"query": "gen:Rufirallus sp:schomburgkii", "n_results": 0}}
+{"ts": "2026-05-18T09:06:42Z", "kind": "skip", "species": "ocecra1", "detail": {"reason": "metadata-only", "would_download": 0, "n_restricted": 0, "n_total": 0}}
+{"ts": "2026-05-18T09:06:43Z", "kind": "query", "species": "555146", "detail": {"query": "gen:Boana sp:raniceps", "n_results": 6}}
+{"ts": "2026-05-18T09:06:43Z", "kind": "skip", "species": "555146", "detail": {"reason": "metadata-only", "would_download": 3, "n_restricted": 0, "n_total": 6}}
+{"ts": "2026-05-18T09:06:45Z", "kind": "query", "species": "nacnig1", "detail": {"query": "gen:Chordeiles sp:nacunda", "n_results": 24}}
+{"ts": "2026-05-18T09:06:45Z", "kind": "skip", "species": "nacnig1", "detail": {"reason": "metadata-only", "would_download": 12, "n_restricted": 0, "n_total": 24}}
+{"ts": "2026-05-18T09:06:46Z", "kind": "query", "species": "24285", "detail": {"query": "gen:Scinax sp:fuscovarius", "n_results": 2}}
+{"ts": "2026-05-18T09:06:46Z", "kind": "skip", "species": "24285", "detail": {"reason": "metadata-only", "would_download": 0, "n_restricted": 0, "n_total": 2}}
+{"ts": "2026-05-18T09:13:41Z", "kind": "query", "species": "1491113", "detail": {"query": "gen:Adenomera sp:guarani", "n_results": 0}}
+{"ts": "2026-05-18T09:13:42Z", "kind": "query", "species": "25073", "detail": {"query": "gen:Chiasmocleis sp:mehelyi", "n_results": 0}}
+{"ts": "2026-05-18T09:13:43Z", "kind": "query", "species": "517063", "detail": {"query": "gen:Pithecopus sp:azureus", "n_results": 0}}
+{"ts": "2026-05-18T09:13:44Z", "kind": "query", "species": "116570", "detail": {"query": "gen:Caiman sp:yacare", "n_results": 0}}
+{"ts": "2026-05-18T09:13:45Z", "kind": "query", "species": "23150", "detail": {"query": "gen:Physalaemus sp:centralis", "n_results": 0}}
+{"ts": "2026-05-18T09:13:47Z", "kind": "query", "species": "23724", "detail": {"query": "gen:Phyllomedusa sp:sauvagii", "n_results": 0}}
+{"ts": "2026-05-18T09:13:47Z", "kind": "query", "species": "516975", "detail": {"query": "gen:Sapajus sp:cay", "n_results": 0}}
+{"ts": "2026-05-18T09:13:48Z", "kind": "query", "species": "209233", "detail": {"query": "gen:Equus sp:caballus", "n_results": 1}}
+{"ts": "2026-05-18T09:13:51Z", "kind": "download", "species": "209233", "detail": {"id": "764981", "bytes": 578681, "q": "B", "length": "0:14", "cnt": "Mongolia", "lat": null, "lon": null}}
+{"ts": "2026-05-18T09:13:51Z", "kind": "query", "species": "24321", "detail": {"query": "gen:Scinax sp:acuminatus", "n_results": 0}}
+{"ts": "2026-05-18T09:13:52Z", "kind": "query", "species": "70711", "detail": {"query": "gen:Leptodactylus sp:macrosternum", "n_results": 0}}
+{"ts": "2026-05-18T09:13:53Z", "kind": "query", "species": "25214", "detail": {"query": "gen:Dermatonotus sp:muelleri", "n_results": 0}}
+{"ts": "2026-05-18T09:13:55Z", "kind": "query", "species": "476521", "detail": {"query": "gen:Physalaemus sp:nattereri", "n_results": 0}}
+{"ts": "2026-05-18T09:13:56Z", "kind": "query", "species": "555123", "detail": {"query": "gen:Boana sp:lundii", "n_results": 0}}
+{"ts": "2026-05-18T09:13:57Z", "kind": "query", "species": "64898", "detail": {"query": "gen:Ameerega sp:picta", "n_results": 3}}
+{"ts": "2026-05-18T09:13:59Z", "kind": "download", "species": "64898", "detail": {"id": "882669", "bytes": 1056224, "q": "B", "length": "1:05", "cnt": "Brazil", "lat": "-4.2443", "lon": "-69.9264"}}
+{"ts": "2026-05-18T09:14:01Z", "kind": "download", "species": "64898", "detail": {"id": "882668", "bytes": 602940, "q": "B", "length": "0:37", "cnt": "Peru", "lat": "-9.6141", "lon": "-74.9352"}}
+{"ts": "2026-05-18T09:14:02Z", "kind": "query", "species": "74580", "detail": {"query": "gen:Mico sp:melanurus", "n_results": 2}}
+{"ts": "2026-05-18T09:14:08Z", "kind": "download", "species": "74580", "detail": {"id": "1091672", "bytes": 3332284, "q": "A", "length": "0:23", "cnt": "Brazil", "lat": "-14.8334", "lon": "-60.0214"}}
+{"ts": "2026-05-18T09:14:08Z", "kind": "query", "species": "sptnig1", "detail": {"query": "gen:Antiurus sp:maculicaudus", "n_results": 0}}
+{"ts": "2026-05-18T09:14:09Z", "kind": "query", "species": "23176", "detail": {"query": "gen:Pseudopaludicola sp:mystacalis", "n_results": 1}}
+{"ts": "2026-05-18T09:14:11Z", "kind": "query", "species": "1595929", "detail": {"query": "gen:Lysapsus sp:limellum", "n_results": 1}}
+{"ts": "2026-05-18T09:14:12Z", "kind": "query", "species": "23154", "detail": {"query": "gen:Physalaemus sp:albifrons", "n_results": 0}}
+{"ts": "2026-05-18T09:14:13Z", "kind": "query", "species": "66971", "detail": {"query": "gen:Pseudis sp:platensis", "n_results": 0}}
+{"ts": "2026-05-18T09:14:14Z", "kind": "query", "species": "738183", "detail": {"query": "gen:Plecturocebus sp:pallescens", "n_results": 1}}
+{"ts": "2026-05-18T09:14:15Z", "kind": "query", "species": "22930", "detail": {"query": "gen:Leptodactylus sp:syphax", "n_results": 1}}
+{"ts": "2026-05-18T09:14:16Z", "kind": "query", "species": "22961", "detail": {"query": "gen:Leptodactylus sp:podicipinus", "n_results": 2}}
+{"ts": "2026-05-18T09:14:19Z", "kind": "download", "species": "22961", "detail": {"id": "1120002", "bytes": 2812070, "q": "B", "length": "0:31", "cnt": "Brazil", "lat": "-9.4478", "lon": "-50.0186"}}
+{"ts": "2026-05-18T09:14:19Z", "kind": "query", "species": "22985", "detail": {"query": "gen:Leptodactylus sp:petersii", "n_results": 4}}
+{"ts": "2026-05-18T09:14:25Z", "kind": "download", "species": "22985", "detail": {"id": "1133721", "bytes": 13895732, "q": "B", "length": "1:18", "cnt": "Brazil", "lat": "-1.424", "lon": "-48.42"}}
+{"ts": "2026-05-18T09:14:29Z", "kind": "download", "species": "22985", "detail": {"id": "1101317", "bytes": 4701732, "q": "B", "length": "0:48", "cnt": "Brazil", "lat": "-2.5992", "lon": "-59.9292"}}
+{"ts": "2026-05-18T09:14:33Z", "kind": "download", "species": "22985", "detail": {"id": "1078293", "bytes": 10584532, "q": "C", "length": "1:00", "cnt": "Brazil", "lat": "-9.5981", "lon": "-55.932"}}
+{"ts": "2026-05-18T09:14:34Z", "kind": "query", "species": "67252", "detail": {"query": "gen:Trachycephalus sp:typhonius", "n_results": 14}}
+{"ts": "2026-05-18T09:14:37Z", "kind": "download", "species": "67252", "detail": {"id": "1100739", "bytes": 4425782, "q": "B", "length": "0:46", "cnt": "Guyana", "lat": "2.4605", "lon": "-59.2967"}}
+{"ts": "2026-05-18T09:14:40Z", "kind": "download", "species": "67252", "detail": {"id": "882988", "bytes": 1705939, "q": "B", "length": "1:46", "cnt": "Ecuador", "lat": "-0.9829", "lon": "-77.8164"}}
+{"ts": "2026-05-18T09:14:42Z", "kind": "download", "species": "67252", "detail": {"id": "883000", "bytes": 1507011, "q": "B", "length": "1:33", "cnt": "Brazil", "lat": null, "lon": null}}
+{"ts": "2026-05-18T09:14:45Z", "kind": "download", "species": "67252", "detail": {"id": "882999", "bytes": 5447672, "q": "B", "length": "5:40", "cnt": "Brazil", "lat": "-4.3811", "lon": "-70.0448"}}
+{"ts": "2026-05-18T09:14:49Z", "kind": "download", "species": "67252", "detail": {"id": "882998", "bytes": 1644619, "q": "B", "length": "1:42", "cnt": "Brazil", "lat": "-1.5025", "lon": "-56.7555"}}
+{"ts": "2026-05-18T09:14:55Z", "kind": "download", "species": "67252", "detail": {"id": "882997", "bytes": 1227206, "q": "B", "length": "1:16", "cnt": "Brazil", "lat": "-1.5025", "lon": "-56.7555"}}
+{"ts": "2026-05-18T09:15:02Z", "kind": "download", "species": "67252", "detail": {"id": "882996", "bytes": 1607973, "q": "B", "length": "1:40", "cnt": "Brazil", "lat": null, "lon": null}}
+{"ts": "2026-05-18T09:15:09Z", "kind": "download", "species": "67252", "detail": {"id": "882995", "bytes": 1711987, "q": "B", "length": "1:46", "cnt": "Ecuador", "lat": null, "lon": null}}
+{"ts": "2026-05-18T09:15:13Z", "kind": "download", "species": "67252", "detail": {"id": "882994", "bytes": 889490, "q": "B", "length": "0:55", "cnt": "Ecuador", "lat": "-0.0477", "lon": "-77.5269"}}
+{"ts": "2026-05-18T09:15:18Z", "kind": "download", "species": "67252", "detail": {"id": "882993", "bytes": 1078808, "q": "B", "length": "1:06", "cnt": "Ecuador", "lat": "-0.0477", "lon": "-77.5269"}}
+{"ts": "2026-05-18T09:15:24Z", "kind": "download", "species": "67252", "detail": {"id": "882992", "bytes": 1587204, "q": "B", "length": "1:38", "cnt": "Ecuador", "lat": "-0.0477", "lon": "-77.5269"}}
+{"ts": "2026-05-18T09:15:25Z", "kind": "query", "species": "760266", "detail": {"query": "gen:Prionacris sp:erosa", "n_results": 0}}
+{"ts": "2026-05-18T09:15:26Z", "kind": "query", "species": "22967", "detail": {"query": "gen:Leptodactylus sp:elenae", "n_results": 0}}
+{"ts": "2026-05-18T09:15:28Z", "kind": "query", "species": "555145", "detail": {"query": "gen:Boana sp:punctata", "n_results": 9}}
+{"ts": "2026-05-18T09:15:33Z", "kind": "download", "species": "555145", "detail": {"id": "882725", "bytes": 1096335, "q": "B", "length": "1:08", "cnt": "Brazil", "lat": null, "lon": null}}
+{"ts": "2026-05-18T09:15:37Z", "kind": "download", "species": "555145", "detail": {"id": "882724", "bytes": 1007853, "q": "B", "length": "1:02", "cnt": "Ecuador", "lat": "-2.0683", "lon": "-76.9812"}}
+{"ts": "2026-05-18T09:15:44Z", "kind": "download", "species": "555145", "detail": {"id": "882723", "bytes": 1650472, "q": "B", "length": "1:42", "cnt": "Suriname", "lat": null, "lon": null}}
+{"ts": "2026-05-18T09:15:56Z", "kind": "download", "species": "555145", "detail": {"id": "882722", "bytes": 3044923, "q": "B", "length": "3:09", "cnt": "Suriname", "lat": null, "lon": null}}
+{"ts": "2026-05-18T09:16:01Z", "kind": "download", "species": "555145", "detail": {"id": "882721", "bytes": 889101, "q": "B", "length": "0:55", "cnt": "Suriname", "lat": null, "lon": null}}
+{"ts": "2026-05-18T09:16:08Z", "kind": "download", "species": "555145", "detail": {"id": "882720", "bytes": 1719334, "q": "B", "length": "1:47", "cnt": "Suriname", "lat": "5.803", "lon": "-56.2046"}}
+{"ts": "2026-05-18T09:16:11Z", "kind": "download", "species": "555145", "detail": {"id": "882719", "bytes": 603962, "q": "B", "length": "0:37", "cnt": "Suriname", "lat": "5.803", "lon": "-56.2046"}}
+{"ts": "2026-05-18T09:16:12Z", "kind": "query", "species": "22983", "detail": {"query": "gen:Leptodactylus sp:labyrinthicus", "n_results": 0}}
+{"ts": "2026-05-18T09:16:13Z", "kind": "query", "species": "74113", "detail": {"query": "gen:Bos sp:taurus", "n_results": 11}}
+{"ts": "2026-05-18T09:16:43Z", "kind": "download", "species": "74113", "detail": {"id": "1076877", "bytes": 7253866, "q": "A", "length": "0:25", "cnt": "Cyprus", "lat": "34.627", "lon": "32.939"}}
+{"ts": "2026-05-18T09:16:45Z", "kind": "download", "species": "74113", "detail": {"id": "1093299", "bytes": 285035, "q": "B", "length": "0:04", "cnt": "United States", "lat": null, "lon": null}}
+{"ts": "2026-05-18T09:16:46Z", "kind": "query", "species": "1161364", "detail": {"query": "gen:Guyalna sp:cuta", "n_results": 0}}
+{"ts": "2026-05-18T09:16:47Z", "kind": "query", "species": "24287", "detail": {"query": "gen:Scinax sp:fuscomarginatus", "n_results": 4}}
+{"ts": "2026-05-18T09:16:48Z", "kind": "query", "species": "1176823", "detail": {"query": "gen:Leptodactylus sp:luctator", "n_results": 0}}
+{"ts": "2026-05-18T09:16:49Z", "kind": "query", "species": "43435", "detail": {"query": "gen:Alouatta sp:caraya", "n_results": 3}}
+{"ts": "2026-05-18T09:16:50Z", "kind": "query", "species": "67107", "detail": {"query": "gen:Rhinella sp:diptycha", "n_results": 4}}
+{"ts": "2026-05-18T09:16:51Z", "kind": "query", "species": "ocecra1", "detail": {"query": "gen:Rufirallus sp:schomburgkii", "n_results": 0}}
+{"ts": "2026-05-18T09:16:52Z", "kind": "query", "species": "555146", "detail": {"query": "gen:Boana sp:raniceps", "n_results": 6}}
+{"ts": "2026-05-18T09:17:07Z", "kind": "download", "species": "555146", "detail": {"id": "882728", "bytes": 3258406, "q": "B", "length": "3:23", "cnt": "Brazil", "lat": "-3.1711", "lon": "-60.1279"}}
+{"ts": "2026-05-18T09:17:09Z", "kind": "download", "species": "555146", "detail": {"id": "882727", "bytes": 327726, "q": "B", "length": "0:20", "cnt": "Brazil", "lat": "-3.1711", "lon": "-60.1279"}}
+{"ts": "2026-05-18T09:17:16Z", "kind": "download", "species": "555146", "detail": {"id": "882726", "bytes": 1683397, "q": "B", "length": "1:44", "cnt": "Brazil", "lat": "-3.1711", "lon": "-60.1279"}}
+{"ts": "2026-05-18T09:17:17Z", "kind": "query", "species": "nacnig1", "detail": {"query": "gen:Chordeiles sp:nacunda", "n_results": 24}}
+{"ts": "2026-05-18T09:17:19Z", "kind": "download", "species": "nacnig1", "detail": {"id": "49552", "bytes": 158604, "q": "A", "length": "0:09", "cnt": "Argentina", "lat": null, "lon": null}}
+{"ts": "2026-05-18T09:17:21Z", "kind": "download", "species": "nacnig1", "detail": {"id": "48759", "bytes": 248761, "q": "A", "length": "0:15", "cnt": "Argentina", "lat": null, "lon": null}}
+{"ts": "2026-05-18T09:17:23Z", "kind": "download", "species": "nacnig1", "detail": {"id": "1062251", "bytes": 229136, "q": "B", "length": "0:02", "cnt": "Brazil", "lat": "-20.363", "lon": "-50.2632"}}
+{"ts": "2026-05-18T09:17:25Z", "kind": "download", "species": "nacnig1", "detail": {"id": "228435", "bytes": 316740, "q": "B", "length": "0:25", "cnt": "Brazil", "lat": "-16.6666666667", "lon": "-56.8333333333"}}
+{"ts": "2026-05-18T09:17:27Z", "kind": "download", "species": "nacnig1", "detail": {"id": "228434", "bytes": 430694, "q": "B", "length": "0:35", "cnt": "Brazil", "lat": "-16.6666666667", "lon": "-56.8333333333"}}
+{"ts": "2026-05-18T09:17:28Z", "kind": "download", "species": "nacnig1", "detail": {"id": "770682", "bytes": 32790, "q": "C", "length": "0:02", "cnt": "Brazil", "lat": "-30.2037", "lon": "-57.5145"}}
+{"ts": "2026-05-18T09:17:30Z", "kind": "download", "species": "nacnig1", "detail": {"id": "574888", "bytes": 62277, "q": "C", "length": "0:02", "cnt": "Brazil", "lat": "-3.8105", "lon": "-60.3461"}}
+{"ts": "2026-05-18T09:17:32Z", "kind": "download", "species": "nacnig1", "detail": {"id": "228433", "bytes": 418406, "q": "C", "length": "0:34", "cnt": "Brazil", "lat": "-16.6666666667", "lon": "-56.8333333333"}}
+{"ts": "2026-05-18T09:17:36Z", "kind": "download", "species": "nacnig1", "detail": {"id": "25728", "bytes": 804307, "q": "C", "length": "0:33", "cnt": "Brazil", "lat": "-31.75", "lon": "-52.28333"}}
+{"ts": "2026-05-18T09:17:39Z", "kind": "download", "species": "nacnig1", "detail": {"id": "15945", "bytes": 244866, "q": "C", "length": "0:15", "cnt": "Brazil", "lat": "-23.8501", "lon": "-54.2537"}}
+{"ts": "2026-05-18T09:17:41Z", "kind": "download", "species": "nacnig1", "detail": {"id": "7780", "bytes": 192616, "q": "C", "length": "0:18", "cnt": "Brazil", "lat": "-23.8501", "lon": "-54.2537"}}
+{"ts": "2026-05-18T09:17:42Z", "kind": "download", "species": "nacnig1", "detail": {"id": "53434", "bytes": 80126, "q": "D", "length": "0:04", "cnt": "Bolivia", "lat": null, "lon": null}}
+{"ts": "2026-05-18T09:17:43Z", "kind": "query", "species": "24285", "detail": {"query": "gen:Scinax sp:fuscovarius", "n_results": 2}}

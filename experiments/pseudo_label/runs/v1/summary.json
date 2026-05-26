@@ -1,0 +1,17 @@
+{
+  "config": {
+    "conf_threshold": 0.8,
+    "hard_pseudo": false,
+    "epochs": 15,
+    "lr": 0.0002,
+    "weight_decay": 0.01,
+    "lambda_pseudo": 0.5,
+    "pseudo_batch": 64
+  },
+  "n_eval_classes": 75,
+  "teacher_oof_auc": 0.9313,
+  "student_oof_auc": 0.902,
+  "delta": -0.0293,
+  "pseudo_kept_windows": 21438,
+  "pseudo_usable_files": 2117
+}

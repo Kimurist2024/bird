@@ -1,0 +1,1399 @@
+{
+  "config": {
+    "classmates": [
+      "proto_ssm",
+      "mlp_mixer"
+    ],
+    "warm_start": [
+      true,
+      false
+    ],
+    "epochs": 20,
+    "batch_size": 16,
+    "lr": 0.0004,
+    "weight_decay": 0.01,
+    "lambda_u": 0.5,
+    "lam_u_warmup_epochs": 3,
+    "sharpen_T": 0.5,
+    "conf_threshold": 0.7,
+    "mixup_alpha": 0.4,
+    "aug": {
+      "noise_sigma": 0.05,
+      "p_window_dropout": 0.1,
+      "p_shuffle": 0.3
+    }
+  },
+  "fold_results": [
+    {
+      "fold": 1,
+      "per_classmate_best_auc": [
+        0.9211,
+        0.6926
+      ],
+      "ensemble_best_auc": 0.9214,
+      "history": [
+        {
+          "epoch": 0,
+          "lam_u": 0.0,
+          "loss": [
+            0.2981,
+            0.682
+          ],
+          "val_auc_per_classmate": [
+            0.9211,
+            0.5643
+          ],
+          "val_auc_ensemble": 0.8201
+        },
+        {
+          "epoch": 1,
+          "lam_u": 0.0,
+          "loss": [
+            0.2138,
+            0.4879
+          ],
+          "val_auc_per_classmate": [
+            0.9211,
+            0.6076
+          ],
+          "val_auc_ensemble": 0.8312
+        },
+        {
+          "epoch": 2,
+          "lam_u": 0.0,
+          "loss": [
+            0.1822,
+            0.3832
+          ],
+          "val_auc_per_classmate": [
+            0.9157,
+            0.6293
+          ],
+          "val_auc_ensemble": 0.8461
+        },
+        {
+          "epoch": 3,
+          "lam_u": 0.0,
+          "loss": [
+            0.1649,
+            0.3049
+          ],
+          "val_auc_per_classmate": [
+            0.9069,
+            0.6464
+          ],
+          "val_auc_ensemble": 0.855
+        },
+        {
+          "epoch": 4,
+          "lam_u": 0.1,
+          "loss": [
+            0.1621,
+            0.2554
+          ],
+          "val_auc_per_classmate": [
+            0.8952,
+            0.6606
+          ],
+          "val_auc_ensemble": 0.8636
+        },
+        {
+          "epoch": 5,
+          "lam_u": 0.2,
+          "loss": [
+            0.145,
+            0.2155
+          ],
+          "val_auc_per_classmate": [
+            0.8766,
+            0.6681
+          ],
+          "val_auc_ensemble": 0.8701
+        },
+        {
+          "epoch": 6,
+          "lam_u": 0.3,
+          "loss": [
+            0.1313,
+            0.1775
+          ],
+          "val_auc_per_classmate": [
+            0.8543,
+            0.673
+          ],
+          "val_auc_ensemble": 0.8708
+        },
+        {
+          "epoch": 7,
+          "lam_u": 0.4,
+          "loss": [
+            0.1271,
+            0.1584
+          ],
+          "val_auc_per_classmate": [
+            0.838,
+            0.6764
+          ],
+          "val_auc_ensemble": 0.8659
+        },
+        {
+          "epoch": 8,
+          "lam_u": 0.5,
+          "loss": [
+            0.1215,
+            0.1427
+          ],
+          "val_auc_per_classmate": [
+            0.819,
+            0.6784
+          ],
+          "val_auc_ensemble": 0.8525
+        },
+        {
+          "epoch": 9,
+          "lam_u": 0.5,
+          "loss": [
+            0.1197,
+            0.1355
+          ],
+          "val_auc_per_classmate": [
+            0.8024,
+            0.6812
+          ],
+          "val_auc_ensemble": 0.8326
+        },
+        {
+          "epoch": 10,
+          "lam_u": 0.5,
+          "loss": [
+            0.1165,
+            0.1281
+          ],
+          "val_auc_per_classmate": [
+            0.7954,
+            0.6843
+          ],
+          "val_auc_ensemble": 0.825
+        },
+        {
+          "epoch": 11,
+          "lam_u": 0.5,
+          "loss": [
+            0.105,
+            0.1174
+          ],
+          "val_auc_per_classmate": [
+            0.7894,
+            0.6871
+          ],
+          "val_auc_ensemble": 0.8134
+        },
+        {
+          "epoch": 12,
+          "lam_u": 0.5,
+          "loss": [
+            0.1075,
+            0.117
+          ],
+          "val_auc_per_classmate": [
+            0.7927,
+            0.688
+          ],
+          "val_auc_ensemble": 0.8149
+        },
+        {
+          "epoch": 13,
+          "lam_u": 0.5,
+          "loss": [
+            0.1054,
+            0.1122
+          ],
+          "val_auc_per_classmate": [
+            0.7954,
+            0.6895
+          ],
+          "val_auc_ensemble": 0.8191
+        },
+        {
+          "epoch": 14,
+          "lam_u": 0.5,
+          "loss": [
+            0.1108,
+            0.1089
+          ],
+          "val_auc_per_classmate": [
+            0.795,
+            0.6911
+          ],
+          "val_auc_ensemble": 0.818
+        },
+        {
+          "epoch": 15,
+          "lam_u": 0.5,
+          "loss": [
+            0.1049,
+            0.1078
+          ],
+          "val_auc_per_classmate": [
+            0.7948,
+            0.6919
+          ],
+          "val_auc_ensemble": 0.8166
+        },
+        {
+          "epoch": 16,
+          "lam_u": 0.5,
+          "loss": [
+            0.1048,
+            0.1066
+          ],
+          "val_auc_per_classmate": [
+            0.795,
+            0.692
+          ],
+          "val_auc_ensemble": 0.8174
+        },
+        {
+          "epoch": 17,
+          "lam_u": 0.5,
+          "loss": [
+            0.1024,
+            0.102
+          ],
+          "val_auc_per_classmate": [
+            0.7953,
+            0.6923
+          ],
+          "val_auc_ensemble": 0.8185
+        },
+        {
+          "epoch": 18,
+          "lam_u": 0.5,
+          "loss": [
+            0.105,
+            0.1044
+          ],
+          "val_auc_per_classmate": [
+            0.7953,
+            0.6925
+          ],
+          "val_auc_ensemble": 0.8185
+        },
+        {
+          "epoch": 19,
+          "lam_u": 0.5,
+          "loss": [
+            0.1019,
+            0.1052
+          ],
+          "val_auc_per_classmate": [
+            0.7954,
+            0.6926
+          ],
+          "val_auc_ensemble": 0.8187
+        }
+      ]
+    },
+    {
+      "fold": 2,
+      "per_classmate_best_auc": [
+        0.9273,
+        0.6871
+      ],
+      "ensemble_best_auc": 0.9294,
+      "history": [
+        {
+          "epoch": 0,
+          "lam_u": 0.0,
+          "loss": [
+            0.2734,
+            0.6265
+          ],
+          "val_auc_per_classmate": [
+            0.9273,
+            0.5726
+          ],
+          "val_auc_ensemble": 0.7049
+        },
+        {
+          "epoch": 1,
+          "lam_u": 0.0,
+          "loss": [
+            0.1879,
+            0.4114
+          ],
+          "val_auc_per_classmate": [
+            0.9141,
+            0.6194
+          ],
+          "val_auc_ensemble": 0.7237
+        },
+        {
+          "epoch": 2,
+          "lam_u": 0.0,
+          "loss": [
+            0.1616,
+            0.2992
+          ],
+          "val_auc_per_classmate": [
+            0.9134,
+            0.6416
+          ],
+          "val_auc_ensemble": 0.744
+        },
+        {
+          "epoch": 3,
+          "lam_u": 0.0,
+          "loss": [
+            0.1431,
+            0.2212
+          ],
+          "val_auc_per_classmate": [
+            0.9153,
+            0.655
+          ],
+          "val_auc_ensemble": 0.7738
+        },
+        {
+          "epoch": 4,
+          "lam_u": 0.1,
+          "loss": [
+            0.1292,
+            0.1716
+          ],
+          "val_auc_per_classmate": [
+            0.91,
+            0.6608
+          ],
+          "val_auc_ensemble": 0.8342
+        },
+        {
+          "epoch": 5,
+          "lam_u": 0.2,
+          "loss": [
+            0.1244,
+            0.1435
+          ],
+          "val_auc_per_classmate": [
+            0.9044,
+            0.6655
+          ],
+          "val_auc_ensemble": 0.8635
+        },
+        {
+          "epoch": 6,
+          "lam_u": 0.3,
+          "loss": [
+            0.1114,
+            0.1169
+          ],
+          "val_auc_per_classmate": [
+            0.9038,
+            0.67
+          ],
+          "val_auc_ensemble": 0.8707
+        },
+        {
+          "epoch": 7,
+          "lam_u": 0.4,
+          "loss": [
+            0.1059,
+            0.1048
+          ],
+          "val_auc_per_classmate": [
+            0.8934,
+            0.6714
+          ],
+          "val_auc_ensemble": 0.8804
+        },
+        {
+          "epoch": 8,
+          "lam_u": 0.5,
+          "loss": [
+            0.1006,
+            0.0931
+          ],
+          "val_auc_per_classmate": [
+            0.8884,
+            0.671
+          ],
+          "val_auc_ensemble": 0.8815
+        },
+        {
+          "epoch": 9,
+          "lam_u": 0.5,
+          "loss": [
+            0.098,
+            0.0884
+          ],
+          "val_auc_per_classmate": [
+            0.8876,
+            0.6738
+          ],
+          "val_auc_ensemble": 0.8796
+        },
+        {
+          "epoch": 10,
+          "lam_u": 0.5,
+          "loss": [
+            0.0944,
+            0.0848
+          ],
+          "val_auc_per_classmate": [
+            0.8882,
+            0.6751
+          ],
+          "val_auc_ensemble": 0.8777
+        },
+        {
+          "epoch": 11,
+          "lam_u": 0.5,
+          "loss": [
+            0.0957,
+            0.0878
+          ],
+          "val_auc_per_classmate": [
+            0.893,
+            0.6768
+          ],
+          "val_auc_ensemble": 0.8795
+        },
+        {
+          "epoch": 12,
+          "lam_u": 0.5,
+          "loss": [
+            0.0929,
+            0.083
+          ],
+          "val_auc_per_classmate": [
+            0.8975,
+            0.6787
+          ],
+          "val_auc_ensemble": 0.8836
+        },
+        {
+          "epoch": 13,
+          "lam_u": 0.5,
+          "loss": [
+            0.0913,
+            0.0823
+          ],
+          "val_auc_per_classmate": [
+            0.8994,
+            0.6801
+          ],
+          "val_auc_ensemble": 0.8865
+        },
+        {
+          "epoch": 14,
+          "lam_u": 0.5,
+          "loss": [
+            0.0911,
+            0.0859
+          ],
+          "val_auc_per_classmate": [
+            0.9001,
+            0.6833
+          ],
+          "val_auc_ensemble": 0.8881
+        },
+        {
+          "epoch": 15,
+          "lam_u": 0.5,
+          "loss": [
+            0.0889,
+            0.0831
+          ],
+          "val_auc_per_classmate": [
+            0.8989,
+            0.6851
+          ],
+          "val_auc_ensemble": 0.8884
+        },
+        {
+          "epoch": 16,
+          "lam_u": 0.5,
+          "loss": [
+            0.0891,
+            0.0792
+          ],
+          "val_auc_per_classmate": [
+            0.8972,
+            0.6863
+          ],
+          "val_auc_ensemble": 0.8882
+        },
+        {
+          "epoch": 17,
+          "lam_u": 0.5,
+          "loss": [
+            0.0847,
+            0.0748
+          ],
+          "val_auc_per_classmate": [
+            0.8959,
+            0.6865
+          ],
+          "val_auc_ensemble": 0.888
+        },
+        {
+          "epoch": 18,
+          "lam_u": 0.5,
+          "loss": [
+            0.0892,
+            0.0854
+          ],
+          "val_auc_per_classmate": [
+            0.8958,
+            0.687
+          ],
+          "val_auc_ensemble": 0.8883
+        },
+        {
+          "epoch": 19,
+          "lam_u": 0.5,
+          "loss": [
+            0.0848,
+            0.0809
+          ],
+          "val_auc_per_classmate": [
+            0.8958,
+            0.6871
+          ],
+          "val_auc_ensemble": 0.8884
+        }
+      ]
+    },
+    {
+      "fold": 3,
+      "per_classmate_best_auc": [
+        0.9294,
+        0.6504
+      ],
+      "ensemble_best_auc": 0.9314,
+      "history": [
+        {
+          "epoch": 0,
+          "lam_u": 0.0,
+          "loss": [
+            0.2981,
+            0.6546
+          ],
+          "val_auc_per_classmate": [
+            0.9294,
+            0.5561
+          ],
+          "val_auc_ensemble": 0.6995
+        },
+        {
+          "epoch": 1,
+          "lam_u": 0.0,
+          "loss": [
+            0.214,
+            0.4768
+          ],
+          "val_auc_per_classmate": [
+            0.9211,
+            0.5861
+          ],
+          "val_auc_ensemble": 0.688
+        },
+        {
+          "epoch": 2,
+          "lam_u": 0.0,
+          "loss": [
+            0.1798,
+            0.3754
+          ],
+          "val_auc_per_classmate": [
+            0.904,
+            0.5998
+          ],
+          "val_auc_ensemble": 0.683
+        },
+        {
+          "epoch": 3,
+          "lam_u": 0.0,
+          "loss": [
+            0.1633,
+            0.3032
+          ],
+          "val_auc_per_classmate": [
+            0.8867,
+            0.6074
+          ],
+          "val_auc_ensemble": 0.6989
+        },
+        {
+          "epoch": 4,
+          "lam_u": 0.1,
+          "loss": [
+            0.1505,
+            0.2472
+          ],
+          "val_auc_per_classmate": [
+            0.8779,
+            0.6166
+          ],
+          "val_auc_ensemble": 0.7209
+        },
+        {
+          "epoch": 5,
+          "lam_u": 0.2,
+          "loss": [
+            0.1421,
+            0.2104
+          ],
+          "val_auc_per_classmate": [
+            0.8687,
+            0.6248
+          ],
+          "val_auc_ensemble": 0.7424
+        },
+        {
+          "epoch": 6,
+          "lam_u": 0.3,
+          "loss": [
+            0.1338,
+            0.1773
+          ],
+          "val_auc_per_classmate": [
+            0.8619,
+            0.6305
+          ],
+          "val_auc_ensemble": 0.7627
+        },
+        {
+          "epoch": 7,
+          "lam_u": 0.4,
+          "loss": [
+            0.1259,
+            0.1554
+          ],
+          "val_auc_per_classmate": [
+            0.8552,
+            0.6349
+          ],
+          "val_auc_ensemble": 0.7815
+        },
+        {
+          "epoch": 8,
+          "lam_u": 0.5,
+          "loss": [
+            0.1207,
+            0.1397
+          ],
+          "val_auc_per_classmate": [
+            0.8411,
+            0.6391
+          ],
+          "val_auc_ensemble": 0.8146
+        },
+        {
+          "epoch": 9,
+          "lam_u": 0.5,
+          "loss": [
+            0.1172,
+            0.13
+          ],
+          "val_auc_per_classmate": [
+            0.8293,
+            0.6416
+          ],
+          "val_auc_ensemble": 0.8367
+        },
+        {
+          "epoch": 10,
+          "lam_u": 0.5,
+          "loss": [
+            0.1097,
+            0.1168
+          ],
+          "val_auc_per_classmate": [
+            0.8162,
+            0.644
+          ],
+          "val_auc_ensemble": 0.8389
+        },
+        {
+          "epoch": 11,
+          "lam_u": 0.5,
+          "loss": [
+            0.1098,
+            0.113
+          ],
+          "val_auc_per_classmate": [
+            0.8009,
+            0.6455
+          ],
+          "val_auc_ensemble": 0.8187
+        },
+        {
+          "epoch": 12,
+          "lam_u": 0.5,
+          "loss": [
+            0.1095,
+            0.1099
+          ],
+          "val_auc_per_classmate": [
+            0.7827,
+            0.6467
+          ],
+          "val_auc_ensemble": 0.7976
+        },
+        {
+          "epoch": 13,
+          "lam_u": 0.5,
+          "loss": [
+            0.1094,
+            0.1079
+          ],
+          "val_auc_per_classmate": [
+            0.7746,
+            0.6478
+          ],
+          "val_auc_ensemble": 0.792
+        },
+        {
+          "epoch": 14,
+          "lam_u": 0.5,
+          "loss": [
+            0.1073,
+            0.1027
+          ],
+          "val_auc_per_classmate": [
+            0.7749,
+            0.6485
+          ],
+          "val_auc_ensemble": 0.7913
+        },
+        {
+          "epoch": 15,
+          "lam_u": 0.5,
+          "loss": [
+            0.1089,
+            0.1077
+          ],
+          "val_auc_per_classmate": [
+            0.7773,
+            0.6495
+          ],
+          "val_auc_ensemble": 0.793
+        },
+        {
+          "epoch": 16,
+          "lam_u": 0.5,
+          "loss": [
+            0.1084,
+            0.1069
+          ],
+          "val_auc_per_classmate": [
+            0.7801,
+            0.6498
+          ],
+          "val_auc_ensemble": 0.7958
+        },
+        {
+          "epoch": 17,
+          "lam_u": 0.5,
+          "loss": [
+            0.1047,
+            0.0996
+          ],
+          "val_auc_per_classmate": [
+            0.7832,
+            0.6502
+          ],
+          "val_auc_ensemble": 0.7978
+        },
+        {
+          "epoch": 18,
+          "lam_u": 0.5,
+          "loss": [
+            0.0992,
+            0.1037
+          ],
+          "val_auc_per_classmate": [
+            0.7839,
+            0.6503
+          ],
+          "val_auc_ensemble": 0.7988
+        },
+        {
+          "epoch": 19,
+          "lam_u": 0.5,
+          "loss": [
+            0.1016,
+            0.1041
+          ],
+          "val_auc_per_classmate": [
+            0.7843,
+            0.6504
+          ],
+          "val_auc_ensemble": 0.7991
+        }
+      ]
+    },
+    {
+      "fold": 4,
+      "per_classmate_best_auc": [
+        0.9412,
+        0.6733
+      ],
+      "ensemble_best_auc": 0.9474,
+      "history": [
+        {
+          "epoch": 0,
+          "lam_u": 0.0,
+          "loss": [
+            0.2964,
+            0.6514
+          ],
+          "val_auc_per_classmate": [
+            0.9412,
+            0.5275
+          ],
+          "val_auc_ensemble": 0.8194
+        },
+        {
+          "epoch": 1,
+          "lam_u": 0.0,
+          "loss": [
+            0.2136,
+            0.4727
+          ],
+          "val_auc_per_classmate": [
+            0.9353,
+            0.5477
+          ],
+          "val_auc_ensemble": 0.8172
+        },
+        {
+          "epoch": 2,
+          "lam_u": 0.0,
+          "loss": [
+            0.1801,
+            0.3607
+          ],
+          "val_auc_per_classmate": [
+            0.9313,
+            0.5644
+          ],
+          "val_auc_ensemble": 0.8291
+        },
+        {
+          "epoch": 3,
+          "lam_u": 0.0,
+          "loss": [
+            0.1635,
+            0.2962
+          ],
+          "val_auc_per_classmate": [
+            0.9285,
+            0.5855
+          ],
+          "val_auc_ensemble": 0.8536
+        },
+        {
+          "epoch": 4,
+          "lam_u": 0.1,
+          "loss": [
+            0.1544,
+            0.2453
+          ],
+          "val_auc_per_classmate": [
+            0.9279,
+            0.6033
+          ],
+          "val_auc_ensemble": 0.8879
+        },
+        {
+          "epoch": 5,
+          "lam_u": 0.2,
+          "loss": [
+            0.1436,
+            0.2069
+          ],
+          "val_auc_per_classmate": [
+            0.927,
+            0.6196
+          ],
+          "val_auc_ensemble": 0.908
+        },
+        {
+          "epoch": 6,
+          "lam_u": 0.3,
+          "loss": [
+            0.131,
+            0.1742
+          ],
+          "val_auc_per_classmate": [
+            0.9264,
+            0.6324
+          ],
+          "val_auc_ensemble": 0.9202
+        },
+        {
+          "epoch": 7,
+          "lam_u": 0.4,
+          "loss": [
+            0.1246,
+            0.1528
+          ],
+          "val_auc_per_classmate": [
+            0.9258,
+            0.6409
+          ],
+          "val_auc_ensemble": 0.9283
+        },
+        {
+          "epoch": 8,
+          "lam_u": 0.5,
+          "loss": [
+            0.1231,
+            0.141
+          ],
+          "val_auc_per_classmate": [
+            0.924,
+            0.6484
+          ],
+          "val_auc_ensemble": 0.9362
+        },
+        {
+          "epoch": 9,
+          "lam_u": 0.5,
+          "loss": [
+            0.1161,
+            0.1261
+          ],
+          "val_auc_per_classmate": [
+            0.9197,
+            0.6531
+          ],
+          "val_auc_ensemble": 0.9384
+        },
+        {
+          "epoch": 10,
+          "lam_u": 0.5,
+          "loss": [
+            0.1175,
+            0.1217
+          ],
+          "val_auc_per_classmate": [
+            0.9148,
+            0.6571
+          ],
+          "val_auc_ensemble": 0.9386
+        },
+        {
+          "epoch": 11,
+          "lam_u": 0.5,
+          "loss": [
+            0.1146,
+            0.1166
+          ],
+          "val_auc_per_classmate": [
+            0.9103,
+            0.6611
+          ],
+          "val_auc_ensemble": 0.9358
+        },
+        {
+          "epoch": 12,
+          "lam_u": 0.5,
+          "loss": [
+            0.1095,
+            0.1079
+          ],
+          "val_auc_per_classmate": [
+            0.9092,
+            0.6643
+          ],
+          "val_auc_ensemble": 0.935
+        },
+        {
+          "epoch": 13,
+          "lam_u": 0.5,
+          "loss": [
+            0.1054,
+            0.1037
+          ],
+          "val_auc_per_classmate": [
+            0.9078,
+            0.667
+          ],
+          "val_auc_ensemble": 0.9332
+        },
+        {
+          "epoch": 14,
+          "lam_u": 0.5,
+          "loss": [
+            0.1039,
+            0.1003
+          ],
+          "val_auc_per_classmate": [
+            0.907,
+            0.6696
+          ],
+          "val_auc_ensemble": 0.9311
+        },
+        {
+          "epoch": 15,
+          "lam_u": 0.5,
+          "loss": [
+            0.1087,
+            0.1063
+          ],
+          "val_auc_per_classmate": [
+            0.9078,
+            0.6714
+          ],
+          "val_auc_ensemble": 0.9296
+        },
+        {
+          "epoch": 16,
+          "lam_u": 0.5,
+          "loss": [
+            0.1055,
+            0.1044
+          ],
+          "val_auc_per_classmate": [
+            0.909,
+            0.6724
+          ],
+          "val_auc_ensemble": 0.9293
+        },
+        {
+          "epoch": 17,
+          "lam_u": 0.5,
+          "loss": [
+            0.1061,
+            0.1026
+          ],
+          "val_auc_per_classmate": [
+            0.9097,
+            0.673
+          ],
+          "val_auc_ensemble": 0.9293
+        },
+        {
+          "epoch": 18,
+          "lam_u": 0.5,
+          "loss": [
+            0.1041,
+            0.0991
+          ],
+          "val_auc_per_classmate": [
+            0.9104,
+            0.6732
+          ],
+          "val_auc_ensemble": 0.9295
+        },
+        {
+          "epoch": 19,
+          "lam_u": 0.5,
+          "loss": [
+            0.1017,
+            0.0996
+          ],
+          "val_auc_per_classmate": [
+            0.9104,
+            0.6733
+          ],
+          "val_auc_ensemble": 0.9295
+        }
+      ]
+    },
+    {
+      "fold": 5,
+      "per_classmate_best_auc": [
+        0.971,
+        0.707
+      ],
+      "ensemble_best_auc": 0.972,
+      "history": [
+        {
+          "epoch": 0,
+          "lam_u": 0.0,
+          "loss": [
+            0.2743,
+            0.6174
+          ],
+          "val_auc_per_classmate": [
+            0.971,
+            0.5347
+          ],
+          "val_auc_ensemble": 0.7554
+        },
+        {
+          "epoch": 1,
+          "lam_u": 0.0,
+          "loss": [
+            0.1895,
+            0.3903
+          ],
+          "val_auc_per_classmate": [
+            0.9636,
+            0.5677
+          ],
+          "val_auc_ensemble": 0.7763
+        },
+        {
+          "epoch": 2,
+          "lam_u": 0.0,
+          "loss": [
+            0.1606,
+            0.2782
+          ],
+          "val_auc_per_classmate": [
+            0.9631,
+            0.6112
+          ],
+          "val_auc_ensemble": 0.8174
+        },
+        {
+          "epoch": 3,
+          "lam_u": 0.0,
+          "loss": [
+            0.1431,
+            0.2061
+          ],
+          "val_auc_per_classmate": [
+            0.9646,
+            0.6394
+          ],
+          "val_auc_ensemble": 0.8851
+        },
+        {
+          "epoch": 4,
+          "lam_u": 0.1,
+          "loss": [
+            0.1341,
+            0.1633
+          ],
+          "val_auc_per_classmate": [
+            0.9648,
+            0.6564
+          ],
+          "val_auc_ensemble": 0.9373
+        },
+        {
+          "epoch": 5,
+          "lam_u": 0.2,
+          "loss": [
+            0.1197,
+            0.1283
+          ],
+          "val_auc_per_classmate": [
+            0.9585,
+            0.6666
+          ],
+          "val_auc_ensemble": 0.9545
+        },
+        {
+          "epoch": 6,
+          "lam_u": 0.3,
+          "loss": [
+            0.1132,
+            0.1119
+          ],
+          "val_auc_per_classmate": [
+            0.9555,
+            0.6763
+          ],
+          "val_auc_ensemble": 0.9559
+        },
+        {
+          "epoch": 7,
+          "lam_u": 0.4,
+          "loss": [
+            0.1082,
+            0.0999
+          ],
+          "val_auc_per_classmate": [
+            0.9545,
+            0.6855
+          ],
+          "val_auc_ensemble": 0.9561
+        },
+        {
+          "epoch": 8,
+          "lam_u": 0.5,
+          "loss": [
+            0.1036,
+            0.0928
+          ],
+          "val_auc_per_classmate": [
+            0.954,
+            0.6917
+          ],
+          "val_auc_ensemble": 0.956
+        },
+        {
+          "epoch": 9,
+          "lam_u": 0.5,
+          "loss": [
+            0.0964,
+            0.0822
+          ],
+          "val_auc_per_classmate": [
+            0.9549,
+            0.6964
+          ],
+          "val_auc_ensemble": 0.9552
+        },
+        {
+          "epoch": 10,
+          "lam_u": 0.5,
+          "loss": [
+            0.0948,
+            0.0821
+          ],
+          "val_auc_per_classmate": [
+            0.9529,
+            0.6994
+          ],
+          "val_auc_ensemble": 0.9546
+        },
+        {
+          "epoch": 11,
+          "lam_u": 0.5,
+          "loss": [
+            0.0876,
+            0.0763
+          ],
+          "val_auc_per_classmate": [
+            0.9523,
+            0.7022
+          ],
+          "val_auc_ensemble": 0.9542
+        },
+        {
+          "epoch": 12,
+          "lam_u": 0.5,
+          "loss": [
+            0.0906,
+            0.0836
+          ],
+          "val_auc_per_classmate": [
+            0.9485,
+            0.7034
+          ],
+          "val_auc_ensemble": 0.9512
+        },
+        {
+          "epoch": 13,
+          "lam_u": 0.5,
+          "loss": [
+            0.09,
+            0.0811
+          ],
+          "val_auc_per_classmate": [
+            0.9496,
+            0.7045
+          ],
+          "val_auc_ensemble": 0.9513
+        },
+        {
+          "epoch": 14,
+          "lam_u": 0.5,
+          "loss": [
+            0.0849,
+            0.0769
+          ],
+          "val_auc_per_classmate": [
+            0.9514,
+            0.7053
+          ],
+          "val_auc_ensemble": 0.9538
+        },
+        {
+          "epoch": 15,
+          "lam_u": 0.5,
+          "loss": [
+            0.089,
+            0.0846
+          ],
+          "val_auc_per_classmate": [
+            0.9524,
+            0.7057
+          ],
+          "val_auc_ensemble": 0.9542
+        },
+        {
+          "epoch": 16,
+          "lam_u": 0.5,
+          "loss": [
+            0.0877,
+            0.0786
+          ],
+          "val_auc_per_classmate": [
+            0.9525,
+            0.7064
+          ],
+          "val_auc_ensemble": 0.9534
+        },
+        {
+          "epoch": 17,
+          "lam_u": 0.5,
+          "loss": [
+            0.086,
+            0.0799
+          ],
+          "val_auc_per_classmate": [
+            0.9522,
+            0.7068
+          ],
+          "val_auc_ensemble": 0.953
+        },
+        {
+          "epoch": 18,
+          "lam_u": 0.5,
+          "loss": [
+            0.0886,
+            0.0836
+          ],
+          "val_auc_per_classmate": [
+            0.9521,
+            0.707
+          ],
+          "val_auc_ensemble": 0.9526
+        },
+        {
+          "epoch": 19,
+          "lam_u": 0.5,
+          "loss": [
+            0.0875,
+            0.0795
+          ],
+          "val_auc_per_classmate": [
+            0.952,
+            0.707
+          ],
+          "val_auc_ensemble": 0.9525
+        }
+      ]
+    }
+  ],
+  "global_oof": {
+    "per_classmate": [
+      {
+        "arch": "proto_ssm",
+        "macro_auc": 0.8933,
+        "n_eval_classes": 71
+      },
+      {
+        "arch": "mlp_mixer",
+        "macro_auc": 0.4579,
+        "n_eval_classes": 71
+      }
+    ],
+    "ensemble": {
+      "macro_auc": 0.8282,
+      "n_eval_classes": 71
+    },
+    "vs_baseline_delta": 0.0283,
+    "baseline_single_proto_ssm": 0.7999
+  },
+  "wall_time_sec": 47.2
+}
